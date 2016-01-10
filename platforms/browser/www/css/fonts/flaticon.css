@@ -1,0 +1,58 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 15px;
+}.flaticon-button44:before {
+	content: "\e000";
+}
+.flaticon-car186:before {
+	content: "\e001";
+}
+.flaticon-closed69:before {
+	content: "\e002";
+}
+.flaticon-cross108:before {
+	content: "\e003";
+}
+.flaticon-forbidden6:before {
+	content: "\e004";
+}
+.flaticon-home168:before {
+	content: "\e005";
+}
+.flaticon-men16:before {
+	content: "\e006";
+}
+.flaticon-open-book1:before {
+	content: "\e007";
+}
+.flaticon-open182:before {
+	content: "\e008";
+}
+.flaticon-phonereceiver14:before {
+	content: "\e009";
+}
+.flaticon-situation:before {
+	content: "\e00a";
+}
+.flaticon-students11:before {
+	content: "\e00b";
+}
+.flaticon-telephone46:before {
+	content: "\e00c";
+}
+.flaticon-tick7:before {
+	content: "\e00d";
+}
