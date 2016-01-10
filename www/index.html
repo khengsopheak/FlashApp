@@ -54,21 +54,25 @@
         .app-menu, .app-search, .app-shr, .app-title {
             float: left;
             height: 100%;
-            line-height: 65px;
-            margin: -5px 15px;
+            width: 10%;
+            padding-top: 10px;
         }
 
         .app-search, .app-shr {
-            float: right;
+            width: 10%;
+            float: right !important;
         }
 
         .app-title {
             margin: 0;
+            width: 80%;
+
         }
 
         .app-menu a i, .app-search a i, .app-shr a i {
             color: #000;
             font-size: 24px;
+            margin: 17% !important
         }
 
         .header {
@@ -128,16 +132,13 @@
             /* Firefox 18- */
             color: #f0f0f0;
             font-size: 17px;
-
             font-weight: lighter;
-
         }
 
         .ui-input-search input::-moz-placeholder {
             /* Firefox 19+ */
             color: #f0f0f0;
             font-size: 17px;
-
             font-weight: lighter;
 
         }
@@ -146,17 +147,41 @@
             color: #f0f0f0;
             font-size: 17px;
             font-weight: lighter;
-
         }
-        html .ui-bar-a, html .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-inherit, html .ui-body-a .ui-bar-inherit, html body .ui-group-theme-a .ui-bar-inherit{
+
+        html .ui-bar-a, html .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-inherit, html .ui-body-a .ui-bar-inherit, html body .ui-group-theme-a .ui-bar-inherit {
             background-color: #FFFFFF !important;
+        }
+
+        .content a {
+            width: 20% !important;
+        }
+
+        .md {
+            font-size: 34px !important;
+            margin-top: 10px !important;
+        }
+
+        .footer h5 {
+            /*color: #A7A7A7 !important;*/
+        }
+
+        .active, .active h5 {
+            background-color: #FFFFFF;
+            color: #0F1BBB !important;
+        }
+
+        .tab-menu {
+            width: 20%;
+            float: left;
+            border: #fff;
         }
     </style>
 </head>
 <body>
-<div data-role="page" id="page-home">
+<div data-role="page" id="page-home" style="background-image: url(img/image-app/background.jpg);">
     <div data-role="panel" id="left-panel2" data-display="overlay" data-position="left" class="panel-index">
-        <div >
+        <div>
             <h1 class="bar-header">ចរាចរណ៏ផ្លូវគោកកម្ពុជា</h1>
         </div>
         <div class="bar-content">
@@ -209,15 +234,15 @@
                 </li>
             </ul>
         </div>
-    </div><!-- /panel -->
+    </div>
+    <!-- /panel -->
     <div data-role="header" data-id="persistent" data-position="fixed" class="header">
-
         <div class="app-menu">
             <a href="#left-panel2" class=""><i class="md md-dehaze"></i></a>
         </div>
 
         <div class="app-title">
-            <h1 class="h-title">ច្បាប់ចរាចរណ៏</h1>
+            <img style="height: 100%;margin-left: 50%;" src="img/icon/Adobe-Flash-app1.png" alt=""/>
         </div>
         <div class="app-search">
             <a href="#popupsearch" data-rel="popup" data-inline="true" data-transition="slide" class="srmenu"
@@ -228,21 +253,54 @@
 
         <div data-role="popup" class="h-serach" id="popupsearch">
             <form class="ui-filterable">
-                <input id="filterlaw" data-type="search" placeholder="ស្វែងរក"/>
+                <input id="filterlaw" data-type="search" placeholder="Search"/>
             </form>
         </div>
 
-    </div><!-- /header -->
-    <div data-role="content"></div>
-    <div data-role="footer" data-position="fixed">
-        <h1>hello</h1>
+    </div>
+    <!-- /header -->
+    <div data-role="content">
+        <a href="#" data-role="button" style="height: 60px;font-size: 22px;width: 80%; margin: auto; background-color: #f0f0f0;color: #0a6ebd; margin-top:200px;">Connection</a>
+        <a href="#" data-role="button" style="height: 60px;font-size: 22px; opacity:0.5;width: 80%; margin: auto; background-color: #f0f0f0;color: #0a6ebd; margin-top:10%;">Connection</a>
+
     </div>
 
+    <!--footer-->
+    <div data-role="footer" data-position="fixed" class="footer">
 
-    <div data-role="content" class="c-pd-tb" class="footer">
-    </div><!-- /content -->
+        <div class="tab-menu">
+            <a href="#">
+                <i class="md md-info" style="text-align: center;width: 100%;"></i>
+                <h5 style="text-align: center;width: 100%;">Now</h5>
+            </a>
+        </div>
+        <div class="tab-menu">
+            <a href="#">
+                <i class="md md-search" style="text-align: center;width: 100%;"></i>
+                <h5 style="text-align: center;width: 100%;">info</h5>
+            </a>
+        </div>
+        <div class="tab-menu">
+            <a href="#">
+                <i class="md md-map" style="text-align: center;width: 100%;"></i>
+                <h5 style="text-align: center;width: 100%;">Map</h5>
+            </a>
+        </div>
 
-
+        <div class="tab-menu">
+            <a href="#">
+                <i class="md md-list" style="text-align: center;width: 100%;"></i>
+                <h5 style="text-align: center;width: 100%;">Lists</h5>
+            </a>
+        </div>
+        <div class="tab-menu">
+            <a href="#" class="active">
+                <i class="md md-search" style="text-align: center;width: 100%;"></i>
+                <h5 style="text-align: center;width: 100%;">info</h5>
+            </a>
+        </div>
+    </div>
+</div>
 </div>
 
 <script type="text/javascript" src="cordova.js"></script>

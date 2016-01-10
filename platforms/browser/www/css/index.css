@@ -23,6 +23,7 @@ body{
     font-family:Khmer !important;
     font-size: 16px !important;
     color: #555 !important;
+    /*background-image: url("../img/app/background.jpg");*/
 }
 ul,li{
     margin: 0;
@@ -33,9 +34,10 @@ ul,li{
     line-height: 25px;
 }
 .header{
-    background: #4285F4 !important;
-    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.3);
+    background: #F9F9F9 !important;
+    box-shadow: 0px 4px 11px rgba(255, 165, 0, 1);
     border-style: none;
+    height: 60px;
 }
 .header .ui-title{
     padding: 20px !important;
@@ -51,7 +53,7 @@ ul,li{
     padding: 0 !important;
 }
 .stats-bar .flaticon:before{
-    color: #fff ;
+    color: #000 ;
     font-size: 50px;
     margin-left: 15px;
 }
@@ -173,7 +175,7 @@ ul,li{
     background: transparent;
 }
 .h-title{
-    color: #fff;
+    color: #000;
     font-size: 20px !important;
     margin: 0;
     padding: 21px 0;

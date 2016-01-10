@@ -1,110 +1,272 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport"
-              content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
-        <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' http://espr.website ws://localhost:35729 data: gap: https://ssl.gstatic.com; style-src 'self' 'unsafe-inline'; media-src *;script-src 'self' localhost:35729 'unsafe-eval' 'unsafe-inline';">-->
-        <link href="css/libs/jquery.mobile.squareui.css" rel="stylesheet" type="text/css"/>
-        <link href="material-icons/material-design-iconic-font.min.css" rel="stylesheet" type="text/css"/>
-        <link href="css/fonts/flaticon.css" rel="stylesheet" type="text/css"/>
-        <link href="css/libs/app.1.css" rel="stylesheet" type="text/css"/>
-        <link href="css/libs/app.2.css" rel="stylesheet" type="text/css"/>
-        <link href="css/index.css" rel="stylesheet" type="text/css"/>
-        <link href="css/libs/slickQuiz.css" media="screen" rel="stylesheet" type="text/css">
-        <link href="css/libs/master.css" media="screen" rel="stylesheet" type="text/css">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' http://espr.website ws://localhost:35729 data: gap: https://ssl.gstatic.com; style-src 'self' 'unsafe-inline'; media-src *;script-src 'self' localhost:35729 'unsafe-eval' 'unsafe-inline';">-->
+    <link href="css/libs/jquery.mobile.squareui.css" rel="stylesheet" type="text/css"/>
+    <link href="material-icons/material-design-iconic-font.min.css" rel="stylesheet" type="text/css"/>
+    <link href="css/fonts/flaticon.css" rel="stylesheet" type="text/css"/>
+    <link href="css/libs/app.1.css" rel="stylesheet" type="text/css"/>
+    <link href="css/libs/app.2.css" rel="stylesheet" type="text/css"/>
+    <link href="css/index.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="css/style.css" type="text/css"/>
+    <link href="css/libs/slickQuiz.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/libs/master.css" media="screen" rel="stylesheet" type="text/css">
 
-        <script src="js/libs/jquery-1.11.3.min.js" type="text/javascript"></script>
-        <script src="js/libs/jquery.mobile-1.4.5.min.js" type="text/javascript"></script>
+    <script src="js/libs/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="js/libs/jquery.mobile-1.4.5.min.js" type="text/javascript"></script>
+    <title>Hello World</title>
 
-    </head>
-    <body>
-    <div data-role="page" id="page-home">
-        <div data-role="panel" id="left-panel2" data-display="overlay" data-position="left" class="panel-index">
-            <div >
-                <h1 class="bar-header">ចរាចរណ៏ផ្លូវគោកកម្ពុជា</h1>
-            </div>
-            <div class="bar-content">
-                <ul class="menu">
-                    <li>
-                        <a href="index.html">
-                            <span class="glyph-icon flaticon-home168 flaticon"></span>
-                            ទំព័រដើម
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#page-laws">
-                            <span class="glyph-icon flaticon-open-book1 flaticon"></span>
-                            ច្បាប់ចរាចរណ៏
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#page-lawsigns">
-                            <span class="glyph-icon flaticon-forbidden6 flaticon"></span>
-                            សញ្ញាចរាចរណ៍
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#page-driving">
-                            <span class="glyph-icon flaticon-car186 flaticon"></span>
+    <style>
+        .ui-popup-container {
+            position: fixed;
+        }
 
-                            បណ្ណ័បើកបរ
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#page-contacts">
-                            <span class="glyph-icon flaticon-phonereceiver14 flaticon"></span>
+        #option, #goption, #gloption, #coption, #aoption {
+            top: 21px;
+            padding: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            background-color: #ffffff;
+            border: 1px solid transparent;
+        }
 
-                            ទំនាក់ទំនង
-                        </a>
-                    </li>
-                </ul>
-                <ul class="menu">
-                    <!--<li>-->
-                    <!--<a>-->
-                    <!--<span class="glyph-icon flaticon-button44 flaticon"></span>-->
-                    <!--អំពីពួកយើង-->
-                    <!--</a>-->
-                    <!--</li>-->
-                    <li>
-                        <a onclick="exitFromApp()">
-                            <span class="glyph-icon flaticon-cross108 flaticon"></span>
-                            បិទកម្មវិធី
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div><!-- /panel -->
-        <div data-role="header" data-id="persistent" data-position="fixed" class="header">
+        #option ul, #goption ul, #gloption ul, #coption ul, #aoption ul {
+            padding: 5px 0;
+            margin: 0;
+            list-style-type: none;
 
-            <div class="app-menu">
-                <a href="#left-panel2" class=""><i class="md md-dehaze"></i></a>
-            </div>
+        }
 
-            <div class="app-title">
-                <h1 class="h-title">ច្បាប់ចរាចរណ៏</h1>
-            </div>
-            <div class="app-search">
-                <a href="#popupsearch" data-rel="popup" data-inline="true" data-transition="slide" class="srmenu"
-                   id="btn-search">
-                    <i class="md md-search"></i>
-                </a>
-            </div>
+        #option ul li, #goption ul li, #gloption ul li, #coption ul li, #aoption ul li {
+            margin: 15px 0;
+        }
 
-            <div data-role="popup" class="h-serach" id="popupsearch">
-                <form class="ui-filterable">
-                    <input id="filterlaw" data-type="search" placeholder="ស្វែងរក"/>
-                </form>
-            </div>
+        #option ul li a, #goption ul li a, #gloption ul li a, #coption ul li a, #aoption ul li a {
 
-        </div><!-- /header -->
+            text-decoration: none;
+            font-size: 12px;
+            color: #666;
 
+        }
+
+        .app-menu, .app-search, .app-shr, .app-title {
+            float: left;
+            height: 100%;
+            line-height: 65px;
+            margin: -5px 15px;
+        }
+
+        .app-search, .app-shr {
+            float: right;
+        }
+
+        .app-title {
+            margin: 0;
+        }
+
+        .app-menu a i, .app-search a i, .app-shr a i {
+            color: #000;
+            font-size: 24px;
+        }
+
+        .header {
+            min-height: 60px;
+        }
+
+        .h-serach {
+            float: left;
+            max-width: 75%;
+            background: #4285F4 !important;
+            border-style: none !important;
+            margin-top: 0px !important;
+        }
+
+        .h-serach .ui-body-inherit {
+            border-style: none;
+            border-bottom: 1px solid #fff !important;
+            background: transparent !important;
+            color: #fff;
+            width: 100%
+        }
+
+        .ui-alt-icon .ui-icon-search::after, .ui-input-search::after {
+            background-image: url("img/search_white_24x24.png") !important;
+            background-size: 24px 24px;
+            height: 24px;
+            width: 24px;
+            opacity: 1;
+        }
+
+        .ui-input-search::after {
+            top: 47%;
+
+        }
+
+        .ui-btn-icon-notext::after {
+            top: 62%;
+        }
+
+        .ui-input-search input {
+            padding-left: 2em;
+            padding-bottom: 0;
+            color: #fff;
+        }
+
+        .ui-icon-delete::after {
+            background-image: url("img/close_white_24x24.png") !important;
+        }
+
+        .ui-input-search input::-webkit-input-placeholder {
+            color: #f0f0f0;
+            font-size: 17px;
+            font-weight: lighter;
+        }
+
+        .ui-input-search input:-moz-placeholder {
+            /* Firefox 18- */
+            color: #f0f0f0;
+            font-size: 17px;
+
+            font-weight: lighter;
+
+        }
+
+        .ui-input-search input::-moz-placeholder {
+            /* Firefox 19+ */
+            color: #f0f0f0;
+            font-size: 17px;
+
+            font-weight: lighter;
+
+        }
+
+        .ui-input-search input:-ms-input-placeholder {
+            color: #f0f0f0;
+            font-size: 17px;
+            font-weight: lighter;
+
+        }
+        html .ui-bar-a, html .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-inherit, html .ui-body-a .ui-bar-inherit, html body .ui-group-theme-a .ui-bar-inherit{
+            background-color: #FFFFFF !important;
+        }
+    </style>
+</head>
+<body>
+<div data-role="page" id="page-home" style="background-image: url(img/image-app/background.jpg);">
+    <div data-role="panel" id="left-panel2" data-display="overlay" data-position="left" class="panel-index">
+        <div >
+            <h1 class="bar-header">ចរាចរណ៏ផ្លូវគោកកម្ពុជា</h1>
+        </div>
+        <div class="bar-content">
+            <ul class="menu">
+                <li>
+                    <a href="index.html">
+                        <span class="glyph-icon flaticon-home168 flaticon"></span>
+                        ទំព័រដើម
+                    </a>
+                </li>
+                <li>
+                    <a href="#page-laws">
+                        <span class="glyph-icon flaticon-open-book1 flaticon"></span>
+                        ច្បាប់ចរាចរណ៏
+                    </a>
+                </li>
+                <li>
+                    <a href="#page-lawsigns">
+                        <span class="glyph-icon flaticon-forbidden6 flaticon"></span>
+                        សញ្ញាចរាចរណ៍
+                    </a>
+                </li>
+                <li>
+                    <a href="#page-driving">
+                        <span class="glyph-icon flaticon-car186 flaticon"></span>
+
+                        បណ្ណ័បើកបរ
+                    </a>
+                </li>
+                <li>
+                    <a href="#page-contacts">
+                        <span class="glyph-icon flaticon-phonereceiver14 flaticon"></span>
+
+                        ទំនាក់ទំនង
+                    </a>
+                </li>
+            </ul>
+            <ul class="menu">
+                <!--<li>-->
+                <!--<a>-->
+                <!--<span class="glyph-icon flaticon-button44 flaticon"></span>-->
+                <!--អំពីពួកយើង-->
+                <!--</a>-->
+                <!--</li>-->
+                <li>
+                    <a onclick="exitFromApp()">
+                        <span class="glyph-icon flaticon-cross108 flaticon"></span>
+                        បិទកម្មវិធី
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div><!-- /panel -->
+    <div data-role="header" data-id="persistent" data-position="fixed" class="header">
+
+        <div class="app-menu">
+            <a href="#left-panel2" class=""><i class="md md-dehaze"></i></a>
+        </div>
+
+        <div class="app-title">
+            <h1 class="h-title">ច្បាប់ចរាចរណ៏</h1>
+        </div>
+        <div class="app-search">
+            <a href="#popupsearch" data-rel="popup" data-inline="true" data-transition="slide" class="srmenu"
+               id="btn-search">
+                <i class="md md-search"></i>
+            </a>
+        </div>
+
+        <div data-role="popup" class="h-serach" id="popupsearch">
+            <form class="ui-filterable">
+                <input id="filterlaw" data-type="search" placeholder="ស្វែងរក"/>
+            </form>
+        </div>
+
+    </div><!-- /header -->
+    <div data-role="content"></div>
+    <div data-role="footer" data-position="fixed">
+        <h1>hello</h1>
     </div>
-    </div>
 
-        <script type="text/javascript" src="cordova.js"></script>
-        <script type="text/javascript" src="js/core/app.js"></script>
-        <script type="text/javascript" src="js/libs/jquery-1.11.3.min.js"></script>
-        <script type="text/javascript" src="js/libs/jquery.mobile-1.4.5.min.js"></script>
-    </body>
+
+    <div data-role="content" class="c-pd-tb" class="footer">
+    </div><!-- /content -->
+
+
+</div>
+
+<script type="text/javascript" src="cordova.js"></script>
+<script src="js/core/app.js" type="text/javascript"></script>
+<script src="js/libs/handlebars-v4.0.2.js" type="text/javascript"></script>
+<script src="js/core/app_template.js" type="text/javascript"></script>
+<script src="js/core/app_cache.js" type="text/javascript"></script>
+<script src="js/app/action/act.js" type="text/javascript"></script>
+
+<script src="js/app/action/sidepanel.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+    App.onDeviceReady();
+    $(document).on("mobileinit", function () {
+        $.mobile.allowCrossDomainPages = true;
+        $.support.cors = true;
+    });
+</script>
+
+<script type="text/javascript">
+
+</script>
+
+
+</body>
 </html>

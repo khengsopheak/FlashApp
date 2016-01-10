@@ -1,23 +1,20 @@
+var URL = "http://espr.website/";
+var ENDPOINT = "http://resourcemap-sea.instedd.org/api/";
 
-var app = {
-    // Application Constructor
-    initialize: function() {
-        this.bindEvents();
-    },
-    // Bind Event Listeners
-    //
-    // Bind any events that are required on startup. Common events are:
-    // 'load', 'deviceready', 'offline', and 'online'.
-    bindEvents: function() {
-        document.addEventListener('deviceready', this.onDeviceReady, false);
-    },
-    // deviceready Event Handler
-    //
-    // The scope of 'this' is the event. In order to call the 'receivedEvent'
-    // function, we must explicitly call 'app.receivedEvent(...);'
-    onDeviceReady: function() {
-        // app.receivedEvent('deviceready');
-    }
+var App = {
+  DB_SIZE: 10 * 1024 * 1024, //10mb
+  DB_NAME: 'camtraffic_db',
+  initialize: function () {
+    this.bindEvents();
+  },
+  bindEvents: function () {
+    document.addEventListener('deviceready', this.onDeviceReady, false);
+  },
+  onDeviceReady: function () {
+    console.log('onDeviceReady')
+    connectionDB(App.DB_NAME, App.DB_SIZE);
+    createTables();
+  }
 };
 
-app.initialize();
+App.initialize();

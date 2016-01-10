@@ -1,115 +1,288 @@
-/*
- * Licensed to the Apache Software Foundation (ASF) under one
- * or more contributor license agreements.  See the NOTICE file
- * distributed with this work for additional information
- * regarding copyright ownership.  The ASF licenses this file
- * to you under the Apache License, Version 2.0 (the
- * "License"); you may not use this file except in compliance
- * with the License.  You may obtain a copy of the License at
- *
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing,
- * software distributed under the License is distributed on an
- * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
- * KIND, either express or implied.  See the License for the
- * specific language governing permissions and limitations
- * under the License.
- */
-* {
-    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+
+@font-face {
+    font-family: Khmer;
+    src: url(fonts/Khmer.ttf);
+}
+@font-face {
+    font-family: Hanuman;
+    src: url(fonts/Hanuman-Regular.ttf);
+}
+@font-face {
+    font-family: Battambang;
+    src: url(fonts/Battambang-Regular.ttf);
+}
+html .ui-body-a {
+    border-width: 0px;
+    border-style: none;
+}
+html .ui-overlay-a, html .ui-page-theme-a, html .ui-page-theme-a .ui-panel-wrapper{
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.16), 0 2px 10px rgba(0, 0, 0, 0.12);
+
+}
+body{
+    font-family:Khmer !important;
+    font-size: 16px !important;
+    color: #555 !important;
+    /*background-image: url("../img/app/background.jpg");*/
+}
+ul,li{
+    margin: 0;
+    padding: 0;
+}
+.artdesc span{
+    font-family: Khmer !important;
+    line-height: 25px;
+}
+.header{
+    background: #F9F9F9 !important;
+    box-shadow: 0px 4px 11px rgba(255, 165, 0, 1);
+    border-style: none;
+    height: 60px;
+}
+.header .ui-title{
+    padding: 20px !important;
+    margin-right: 20% !important;
 }
 
-body {
-    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
-    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
-    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
-    background-color:#E4E4E4;
-    background-image:linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-webkit-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-webkit-gradient(
-        linear,
-        left top,
-        left bottom,
-        color-stop(0, #A7A7A7),
-        color-stop(0.51, #E4E4E4)
-    );
-    background-attachment:fixed;
-    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
-    font-size:12px;
-    height:100%;
-    margin:0px;
-    padding:0px;
-    text-transform:uppercase;
-    width:100%;
+.count h2{
+    font-size: 18px !important;
+    line-height: 70px !important;
+    padding-left: 15px;
+}
+.p-d-0{
+    padding: 0 !important;
+}
+.stats-bar .flaticon:before{
+    color: #000 ;
+    font-size: 50px;
+    margin-left: 15px;
+}
+.l-title,.m-title,.s-title{
+    line-height: 25px;
 }
 
-/* Portrait layout (default) */
-.app {
-    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
-    position:absolute;             /* position in the center of the screen */
-    left:50%;
-    top:50%;
-    height:50px;                   /* text area height */
-    width:225px;                   /* text area width */
-    text-align:center;
-    padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
-    margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
-                                   /* offset horizontal: half of text area width */
+.l-title{
+    /*font-size: 16px !important;*/
+    color: #555 !important;
+}
+.m-title{
+    font-size: 14px !important;
+    color: #555 !important;
+}
+.s-title{
+    color: #666 !important;
+}
+.panel-index{
+    z-index: 2222;
 }
 
-/* Landscape layout (with min-width) */
-@media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
-    .app {
-        background-position:left center;
-        padding:75px 0px 75px 170px;  /* padding-top + padding-bottom + text area = image height */
-        margin:-90px 0px 0px -198px;  /* offset vertical: half of image height */
-                                      /* offset horizontal: half of image width and text area width */
-    }
+#popupsearch-popup,#popupsearch1-popup,#popupsearch,#popupsearch1{
+    max-width: 100% !important;
+    left: 0 !important;
+    right: 0 !important;
+    top:0 !important;
+    position: fixed;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
-h1 {
-    font-size:24px;
-    font-weight:normal;
-    margin:0px;
-    overflow:visible;
-    padding:0px;
-    text-align:center;
+.m-back{
+    background-color: rgba(255, 255, 255, 0.22) !important;
+    border-radius: 50% !important;
+    padding: 1px 4px;
+    margin: 12px 0px 0px 3px !important;
 }
 
-.event {
-    border-radius:4px;
-    -webkit-border-radius:4px;
-    color:#FFFFFF;
-    font-size:12px;
-    margin:0px 30px;
-    padding:2px 0px;
+
+/* 0 - 480px */
+@media all and (min-width: 480px){
+
 }
 
-.event.listening {
-    background-color:#333333;
+/* 481px - 768px */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* 769px - 1024px */
+@media only screen and (min-width: 1024px) {
+
+}
+
+/* 1025px - 1280px */
+@media only screen and (min-width: 1280px) {
+
+}
+
+/* 1281px - 1440 */
+@media only screen and (min-width: 1440px) {
+
+
+}
+
+/* 1441px - 1600px */
+@media only screen and (min-width: 1600px) {
+
+}
+
+/* 1601px - 1920px */
+@media only screen and (min-width: 1920px) {
+
+}
+
+.cus-listview{
+    border-bottom: 1px solid #f0f0f0 !important;
+}
+.circle-img{
+    border-radius: 50%;
+    display: inline-block;
+    float: left;
+    margin-top: 7px;
+    margin-right: 10px;
+    margin-left: -10px;
+}
+.circle-sign{
+    display: inline-block;
+    float: left;
+
+    margin-right: 10px;
+    margin-left: -10px;
+}
+.circle-sign > img{
+    height: 75px;
+    width: 75px;
     display:block;
+    padding: 2px;
+    background: transparent;
+}
+.dt-content{
+    margin-left: 35px;
 }
 
-.event.received {
-    background-color:#4B946A;
-    display:none;
+.s-title{
+
+}
+.circle-img > img{
+    border-radius: 50%;
+    height: 45px;
+    width: 45px;
+    display:block;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.16), 0 2px 10px rgba(0, 0, 0, 0.12);
+}
+.no-arro:after{
+    background-image: none !important;
+    background: transparent;
+}
+.h-title{
+    color: #000;
+    font-size: 20px !important;
+    margin: 0;
+    padding: 21px 0;
 }
 
-@keyframes fade {
-    from { opacity: 1.0; }
-    50% { opacity: 0.4; }
-    to { opacity: 1.0; }
+.ui-btn-icon-notext::after{
+    background-color: transparent;
 }
- 
-@-webkit-keyframes fade {
-    from { opacity: 1.0; }
-    50% { opacity: 0.4; }
-    to { opacity: 1.0; }
+.cs-lv-actions{
+    position: absolute;
+    right: 10px;
+    display: block;
+    top: 27px;
+    font-size: 25px;
 }
- 
-.blink {
-    animation:fade 3000ms infinite;
-    -webkit-animation:fade 3000ms infinite;
+.cs-lv-actions .md-chevron-right{
+    color: #A9A9A9;
+}
+.dont-break-out {
+    /* These are technically the same, but use both */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    -ms-word-break: break-all;
+    /* This is the dangerous one in WebKit, as it breaks things wherever */
+    word-break: break-all;
+    /* Instead use this non-standard one: */
+    word-break: break-word;
+
+    /* Adds a hyphen where the word breaks, if supported (No Blink) */
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+}
+.ui-mobile .ui-page {
+    min-height: 100% !important;
+}
+.ui-panel-inner{
+    padding: 0;
+}
+.bar-header{
+    padding: 15px;
+    color: #4285F4;
+    margin-top: 3px;
+    font-size: 20px;
+}
+
+.bar-content{
+
+}
+.content{
+    display: block !important;
+    list-style-type: none;
+    margin: 0;
+    line-height: 25px;
+    border-bottom: 1px solid #f0f0f0;
+}
+.bar-content .menu{
+    display: block !important;
+    list-style-type: none;
+    margin: 0;
+    line-height: 25px;
+    border-bottom: 1px solid #f0f0f0;
+}
+.bar-content .menu:last-child{
+    border-bottom: 0px solid #f0f0f0;
+
+}
+.bar-content .menu li{
+    padding: 10px 0;
+}
+.bar-content .menu li a{
+    /*margin: 0 10px;*/
+    display: block;
+    color: #646464;
+    font-weight: 300;
+}
+.bar-content .menu li a span{
+    margin-right: 15px;
+    /*color: #A9A9A9;*/
+}
+
+
+.card{
+    background: transparent;
+    box-shadow: none;
+}
+.listview .lv-item{
+    margin: 15px !important;
+    background: #fff;
+    box-shadow: 0 -1px 0 #e5e5e5,0 0 2px rgba(0,0,0,.12),0 2px 4px rgba(0,0,0,.24);
+    border-left: 5px solid #4285F4;
+    border-radius: 5px;
+}
+.path {
+    width: 40% !important;
+}
+.h-serach{
+    width: 100% !important;
+    height: 60px !important;
+}
+.ui-content{
+    padding: 0px !important;
+}
+.quizHeader a{
+    display: inline;
+    text-align: center !important;
+    margin-left: 30%;
+    width: 40%;
 }

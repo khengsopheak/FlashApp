@@ -157,7 +157,6 @@ ul,li{
 }
 .dt-content{
     margin-left: 35px;
-    position: absolute;
 }
 
 .s-title{
@@ -227,8 +226,15 @@ ul,li{
 .bar-content{
 
 }
+.content{
+    display: block !important;
+    list-style-type: none;
+    margin: 0;
+    line-height: 25px;
+    border-bottom: 1px solid #f0f0f0;
+}
 .bar-content .menu{
-    display: block;
+    display: block !important;
     list-style-type: none;
     margin: 0;
     line-height: 25px;
@@ -269,6 +275,7 @@ ul,li{
 }
 .h-serach{
     width: 100% !important;
+    height: 60px !important;
 }
 .ui-content{
     padding: 0px !important;
