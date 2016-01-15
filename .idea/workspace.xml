@@ -2,42 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="075ed0f7-f2b6-409b-a8cd-0a41d05344dc" name="Default" comment="upate">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/image-app/12499273_810736455721573_305622756_o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/image-app/12516958_810736512388234_1929029849_o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/image-app/12528223_810779049050647_1120929018_o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/image-app/12545826_810736469054905_1512267001_o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/icon/Adobe-Flash-app1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/image-app/background.jpg" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimg\contact.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimg\driving.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimg\law.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimg\map.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimg\sign.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimg\sing-03.psd" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimg\testing.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimgs\catcar-01.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimgs\catcon6-01.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimgs\catlaw-01.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimgs\contact-01.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimgs\map-01.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimgs\sing-03.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\catimgs\test-02.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/core/app.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/core/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/core/app.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/core/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/icon/cloud_thing_original.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/png/folder265.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/psd/folder265.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/png/homework.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/psd/homework.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/png/info27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/psd/info27.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/license.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/png/paper11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/png/paper11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/psd/paper11.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/psd/paper11.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/png/shopping73.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/psd/shopping73.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/libs/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/eps/folder265.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/svg/folder265.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/eps/homework.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/svg/homework.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/eps/info27.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/svg/info27.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/eps/paper11.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/svg/paper11.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/svg/paper11.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/eps/shopping73.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/libs/fonts/icon/svg/shopping73.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/style.css" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\css\fonts\Battambang-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\css\fonts\Battambang-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\css\fonts\Hanuman-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\css\fonts\Hanuman-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\css\fonts\Khmer.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\css\fonts\flaticon.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\css\fonts\flaticon.eot" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\css\fonts\flaticon.svg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\css\fonts\flaticon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\css\fonts\flaticon.woff" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\close_white_24x24.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\ic_search_wht_24dp_r1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\image-app\12499273_810736455721573_305622756_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\image-app\12516958_810736512388234_1929029849_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\image-app\12528223_810779049050647_1120929018_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\image-app\12545826_810736469054905_1512267001_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\image-app\background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ក.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ខ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\គ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ឃ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ង.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ច.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ឆ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ជ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ឈ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ញ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ដ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ឋ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ឌ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ឍ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ណ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ត.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ថ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ទ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ធ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ន.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ប.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ផ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ព.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ភ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ម.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\យ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\រ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ល.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\វ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ស.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ហ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\ឡ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\imgtrimstr\អ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\search_white_24x24.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\upload\5644-19692222-554d-4105-8c55-ebdc778f03d6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\www\img\upload\icon-ios7-location-512.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/core/app.js" afterPath="$PROJECT_DIR$/www/js/core/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/fonts/flaticon.css" afterPath="$PROJECT_DIR$/www/css/fonts/flaticon.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/handlebars-v4.0.2.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/handlebars-v4.0.2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/libs/handlebars-v4.0.2.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/libs/handlebars-v4.0.2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/index.css" afterPath="$PROJECT_DIR$/platforms/browser/www/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/index.css" afterPath="$PROJECT_DIR$/www/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/jquery-1.11.3.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/libs/jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/libs/jquery-1.11.3.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/jquery.mobile-1.4.5.min.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/jquery.mobile-1.4.5.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/libs/jquery.mobile-1.4.5.min.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/libs/jquery.mobile-1.4.5.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="d6f2114b-7466-4dcd-a961-954278fa73ee" name="Rejected commit: Default" comment="upate" />
@@ -63,63 +118,56 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65700483">
-              <caret line="262" column="156" selection-start-line="262" selection-start-column="156" selection-end-line="262" selection-end-column="156" />
+            <state vertical-scroll-proportion="0.1954023">
+              <caret line="264" column="16" selection-start-line="264" selection-start-column="16" selection-end-line="264" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#a#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#0;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#a#0;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#0;n#div#3;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#a#0;n#div#3;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#0;n#div#4;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#a#0;n#div#4;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="192" column="16" selection-start-line="192" selection-start-column="16" selection-end-line="192" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="flaticon.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/css/fonts/flaticon.css">
+        <entry file="file://$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="14" />
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <file leaf-file-name="flaticon.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="277" column="28" selection-start-line="277" selection-start-column="28" selection-end-line="277" selection-end-column="28" />
+              <caret line="244" column="17" selection-start-line="244" selection-start-column="17" selection-end-line="244" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="material-design-iconic-font.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/material-icons/material-design-iconic-font.min.css">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/core/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="46.607143">
-              <caret line="4" column="20080" selection-start-line="4" selection-start-column="20073" selection-end-line="4" selection-end-column="20080" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="material-design-iconic-font.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/material-icons/material-design-iconic-font.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1034484">
-              <caret line="63" column="37" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -127,15 +175,34 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Html5" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/css/style.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Temp1_MyIcons.zip/flaticon.css" />
+        <option value="$PROJECT_DIR$/www/js/libs/angular.min.js" />
+        <option value="$PROJECT_DIR$/www/menu.html" />
+        <option value="$PROJECT_DIR$/www/css/fonts/flaticon.ttf" />
+        <option value="$PROJECT_DIR$/www/css/fonts/flaticon.svg" />
         <option value="$PROJECT_DIR$/www/css/fonts/flaticon.css" />
+        <option value="$PROJECT_DIR$/www/css/font-rest/flaticon.html" />
+        <option value="$PROJECT_DIR$/www/css/font-rest/flaticon.css" />
+        <option value="$PROJECT_DIR$/www/css/font/flaticon.css" />
         <option value="$PROJECT_DIR$/www/css/index.css" />
+        <option value="$PROJECT_DIR$/www/js/core/app.js" />
+        <option value="$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.css" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
         <option value="$PROJECT_DIR$/www/index.html" />
       </list>
     </option>
@@ -150,8 +217,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="width" value="1370" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -160,7 +227,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -176,7 +243,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,28 +290,92 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="material-icons" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlashApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlashApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlashApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlashApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlashApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlashApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/Working/mobile/test" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\NewTem\FlashApp\www\img\icon" />
-      <recent name="E:\NewTem\FlashApp\www\img\image-app" />
-      <recent name="E:\NewTem\FlashApp" />
-      <recent name="E:\NewTem\FlashApp\www" />
-      <recent name="E:\NewTem\FlashApp\www\css" />
+      <recent name="E:\NewTem\FlashApp\www\css\libs\fonts\icon" />
+      <recent name="E:\NewTem\FlashApp\www\css\font" />
+      <recent name="E:\NewTem\FlashApp\www\css\font-rest" />
+      <recent name="E:\NewTem\FlashApp\www\css\fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\NewTem\FlashApp\www\js" />
@@ -304,25 +435,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1370" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3338257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935917" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935917" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22056632" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -353,28 +484,188 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#a#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#a#0;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#3;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#a#0;n#div#3;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#4;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#a#0;n#div#4;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/fonts/flaticon.css">
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="14" />
+          <caret line="192" column="16" selection-start-line="192" selection-start-column="16" selection-end-line="192" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="244" column="17" selection-start-line="244" selection-start-column="17" selection-end-line="244" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/core/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="157" column="71" selection-start-line="157" selection-start-column="71" selection-end-line="157" selection-end-column="71" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/material-icons/material-design-iconic-font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="304" column="2" selection-start-line="304" selection-start-column="2" selection-end-line="304" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/material-icons/material-design-iconic-font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="304" column="2" selection-start-line="304" selection-start-column="2" selection-end-line="304" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="302" column="26" selection-start-line="302" selection-start-column="26" selection-end-line="302" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="277" column="28" selection-start-line="277" selection-start-column="28" selection-end-line="277" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/material-icons/material-design-iconic-font.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="20080" selection-start-line="4" selection-start-column="20073" selection-end-line="4" selection-end-column="20080" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/material-icons/material-design-iconic-font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="37" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="277" column="28" selection-start-line="277" selection-start-column="28" selection-end-line="277" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/material-icons/material-design-iconic-font.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="20080" selection-start-line="4" selection-start-column="20073" selection-end-line="4" selection-end-column="20080" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/material-icons/material-design-iconic-font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="37" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -382,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="235" column="19" selection-start-line="235" selection-start-column="19" selection-end-line="235" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -390,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="7215" selection-start-line="4" selection-start-column="7214" selection-end-line="4" selection-end-column="7215" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -398,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="321" column="25" selection-start-line="321" selection-start-column="25" selection-end-line="322" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -409,90 +697,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/img/image-app/12545826_810736469054905_1512267001_o.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/img/image-app/12499273_810736455721573_305622756_o.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/img/image-app/12516958_810736512388234_1929029849_o.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/img/image-app/12528223_810779049050647_1120929018_o.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/img/image-app/background.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/css/libs/jquery.mobile.squareui.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.275862">
           <caret line="129" column="1" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/fonts/flaticon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/material-icons/material-design-iconic-font.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="46.607143">
-          <caret line="4" column="20080" selection-start-line="4" selection-start-column="20073" selection-end-line="4" selection-end-column="20080" />
-          <folding />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="4" column="4941" selection-start-line="4" selection-start-column="4941" selection-end-line="4" selection-end-column="4941" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/libs/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29057187">
+          <caret line="269" column="32" selection-start-line="269" selection-start-column="32" selection-end-line="269" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/svg/adjust-16.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/svg/500px-16.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/img/500px-16.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/material-icons/material-design-iconic-font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13137558">
+          <caret line="309" column="20" selection-start-line="309" selection-start-column="20" selection-end-line="309" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/libs/fonts/icon/eps/info27.eps">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.020202">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/core/app.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="277" column="28" selection-start-line="277" selection-start-column="28" selection-end-line="277" selection-end-column="28" />
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/material-icons/material-design-iconic-font.css">
+    <entry file="file://$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1034484">
-          <caret line="63" column="37" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="244" column="17" selection-start-line="244" selection-start-column="17" selection-end-line="244" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/libs/fonts/icon/flaticon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="192" column="16" selection-start-line="192" selection-start-column="16" selection-end-line="192" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65700483">
-          <caret line="262" column="156" selection-start-line="262" selection-start-column="156" selection-end-line="262" selection-end-column="156" />
+        <state vertical-scroll-proportion="0.1954023">
+          <caret line="264" column="16" selection-start-line="264" selection-start-column="16" selection-end-line="264" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#a#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#a#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#a#0;n#div#2;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#3;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#a#0;n#div#3;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#4;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#a#0;n#div#4;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
