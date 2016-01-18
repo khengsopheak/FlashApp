@@ -1,46 +1,23 @@
 $(function () {
-
-//    law
+//    flashApp
     $(document).delegate("#page-laws", "pageshow", function () {
-        LawController.get();
+        flashAppController.getRegister();
     });
-    $(document).delegate("#pagelaw a", "click", function () {
-        LawController.id = ($(this).data("id"));
+//    now page 
+     $(document).delegate("#page-now", "pageshow", function () {
+        flashAppController.getNow();
     });
-
-    $(document).delegate("#page-articles", "pageshow", function () {
-        LawController.getArticle();
+//    lists page
+         $(document).delegate("#page-lists", "pageshow", function () {
+        flashAppController.getLists();
     });
-
-
-//     lawsign
-    $(document).delegate("#page-lawsigns", "pageshow", function () {
-        LawsignController.get();
+//    map page
+         $(document).delegate("#page-map", "pageshow", function () {
+        flashAppController.getMap();
     });
-
-    $(document).delegate("#pagelawsign a", "click", function () {
-        LawsignController.id = ($(this).data("id"));
-    });
-
-    $(document).delegate("#page-groupsigns", "pageshow", function () {
-        //console.log( ' page show of page-groupsigns : ', LawsignController.id);
-        LawsignController.getGroupsign();
-
-    });
-
-    $(document).delegate("#pagegroupsign a", "click", function () {
-        GroupsignController.id = ($(this).data("id"));
-    });
-
-    $(document).delegate("#page-groupsignlists", "pageshow", function () {
-        GroupsignController.getGroupsignlist();
-    });
-
-
-//     contact
-    $(document).delegate("#page-contacts", "pageshow", function () {
-        ContactController.get();
-
+    //    map page
+         $(document).delegate("#page-parial", "pageshow", function () {
+        flashAppController.getParial();
     });
     
 //     focus search

@@ -106,26 +106,26 @@
             <!--footer-->
             <div data-role="footer" data-position="fixed" class="footer">
                 <div class="tab-menu">
-                    <a href="#">
+                    <a href="#page-now">
                         <h1 class="glyph-icon flaticon-info27"></h1>
-                        <h5>New!</h5>
+                        <h5>Now!</h5>
                     </a>
                 </div>
 
                 <div class="tab-menu">
-                    <a href="#">
+                    <a href="#page-parial">
                         <h1 class="glyph-icon flaticon-shopping73"></h1>
                         <h5>parial</h5>
                     </a>
                 </div>
                 <div class="tab-menu">
-                    <a href="#">
+                    <a href="#page-map">
                         <h1 class="glyph-icon flaticon-paper11"></h1>
                         <h5>Map</h5>
                     </a>
                 </div>
                 <div class="tab-menu">
-                    <a href="#">
+                    <a href="#page-lists">
                         <h1 class="glyph-icon flaticon-homework"></h1>
                         <h5>Lists</h5>
                     </a>
@@ -140,6 +140,12 @@
         </div>
 
         <div data-role="page" id="page-laws"></div>
+        <div data-role="page" id="page-now"></div>  
+        <div data-role="page" id="page-lists"></div>
+        <div data-role="page" id="page-map"></div>
+        <div data-role="page" id="page-parial"></div>
+
+
         
         <!--import scrip file-->
         <script type="text/javascript" src="cordova.js"></script>
@@ -148,11 +154,10 @@
         <script src="js/core/app_template.js" type="text/javascript"></script>
         <script src="js/app/action/act.js" type="text/javascript"></script>
         <script src="js/app/action/sidepanel.js" type="text/javascript"></script>
-        <script src="js/app/model/law_model.js" type="text/javascript"></script>
-        <script src="js/app/controller/law_controller.js" type="text/javascript"></script>
-        <script src="js/app/view/law_view.js" type="text/javascript"></script>
+        <script src="js/app/controller/flash_app_controller.js" type="text/javascript"></script>
+        <script src="js/app/view/flash_app_view.js" type="text/javascript"></script>
         <script src="js/core/app_cache.js" type="text/javascript"></script>
-        
+        <script src="js/app/model/flash_app_mode.js" type="text/javascript"></script>
         
         <script type="text/javascript">
                         App.onDeviceReady();
