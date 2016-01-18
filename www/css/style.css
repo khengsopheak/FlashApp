@@ -35,8 +35,9 @@
 }
 
 .app-search, .app-shr {
-    width: 10%;
-    float: right !important;
+    /* width: 10%; */
+    /* float: right !important; */
+    /* float: right !important; */
 }
 
 .app-title {
@@ -48,7 +49,8 @@
 .app-menu a i, .app-search a i, .app-shr a i {
     color: #000;
     font-size: 24px;
-    margin: 17% !important
+    margin: 0px auto !important;
+    padding: 0 20%;
 }
 
 .header {
@@ -157,38 +159,70 @@ html .ui-bar-a, html .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-in
     float: left;
     border: #fff;
 }
- .btnConnection{
-     height: 60px;
-     font-size: 22px;
-     width: 80%;
-     margin: auto;
-     background-color: #f0f0f0 !important;
-     border-color: #fff !important;
-     color: #0a6ebd !important;
-     margin-top: 200px;
- }
- .btnRegister{
-     height: 60px;
-     font-size: 22px;
-     opacity: 0.5 !important;
+.btnConnection{
+    height: 60px;
+    font-size: 22px;
+    width: 80%;
+    margin: auto;
+    background-color: #f0f0f0 !important;
+    border-color: #fff !important;
+    color: #0a6ebd !important;
+    margin-top: 200px;
+}
+.btnRegister{
+    height: 60px;
+    font-size: 22px;
+    opacity: 0.5 !important;
 
-     border-color: #fff !important;
-     width: 80%;
-     margin: auto;
-     background-color: #f0f0f0 !important;
-     color: #0a6ebd !important;
-     margin-top: 10%;
- }
- .cont .head{
-     background-color: #f00 !important;
-     width: 100% !important;
-     padding: 0px !important;
- }
- .cont .head h1{
-     margin: 0px auto;
-     text-align: center;
-     color: #fff;
-     font-family: arial;
-     font-size: 22px;
-     padding: 15px;
- }
+    border-color: #fff !important;
+    width: 80%;
+    margin: auto;
+    background-color: #f0f0f0 !important;
+    color: #0a6ebd !important;
+    margin-top: 10%;
+}
+.cont .head{
+    background-color: #f00 !important;
+    width: 100% !important;
+    padding: 0px !important;
+}
+.cont .head h1{
+    margin: 0px auto;
+    text-align: center;
+    color: #fff;
+    font-family: arial;
+    font-size: 22px;
+    padding: 15px;
+}
+.ui-field-contain, .ui-mobile fieldset.ui-field-contain{
+    padding: 0px !important;
+    margin: 0px;
+}
+.profile-image{
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url('../img/icon/old foto.jpg');
+}
+.add-profile{
+    float: right;
+    background-size: 100%;
+    border-color: #B59595;
+    border: solid 3px #D8CECE;
+    padding: 5px;
+    border-radius: 100%;
+    background-color: #D8CECE;
+    margin-top: 139px;
+    margin-right: 10px;
+}
+.txt{
+    width: 50% !important; 
+    float: left;
+}
+.tab-menu a {
+            color: #666 !important;;
+        }
+        .tab-menu a{
+            color: red !important;;
+        }

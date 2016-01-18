@@ -1,3 +1,6 @@
+var URL = "#";
+var ENDPOINT = "http://resourcemap-sea.instedd.org/api/";
+
 var App = {
   initialize: function () {
     this.bindEvents();
@@ -5,8 +8,8 @@ var App = {
   bindEvents: function () {
     document.addEventListener('deviceready', this.onDeviceReady, false);
   },
-  onDeviceReady: function () {
-   },
+  onDeviceReady: function () { 
+  }
 };
 
 App.initialize();

@@ -1,47 +1,12 @@
 $(function () {
 
 //    law
-    function exitFromApp()
-    {
-        navigator.app.exitApp();
-    }
     $(document).delegate("#page-laws", "pageshow", function () {
         LawController.get();
     });
-    $(document).delegate("#pagelaw a", "click", function (  ) {
+    $(document).delegate("#pagelaw a", "click", function () {
         LawController.id = ($(this).data("id"));
     });
-    var act=true;
-    $(document).delegate("#fave", "click", function () {
-        if(act){
-            act=false;
-            $("#fave .md-favorite").addClass('cs-favorite');
-        }else{
-            act=true;
-            $("#fave .md-favorite").removeClass('cs-favorite');
-        }
-    });
-
-
-    $(document).delegate("#seeMore", "click", function () {
-        if(LawModel.page<LawController.lastPage){
-            LawModel.page=LawModel.page+1;
-            LawController.get();
-            $("#seeMore").hide();
-        }
-        //alert("was click page ID:"+LawModel.page);
-        //console.log("clicked:",LawModel.page);
-    });
-    $(document).delegate("#seeSignMore", "click", function () {
-        if(LawsignModel.page<LawsignController.lastPage){
-            LawsignModel.page=LawsignModel.page+1;
-            LawsignController.get();
-            $("#seeSignMore").hide();
-        }
-        //alert("was click page ID:"+LawModel.page);
-        //console.log("clicked:",LawModel.page);
-    });
-
 
     $(document).delegate("#page-articles", "pageshow", function () {
         LawController.getArticle();
@@ -58,7 +23,7 @@ $(function () {
     });
 
     $(document).delegate("#page-groupsigns", "pageshow", function () {
-        console.log( ' page show of page-groupsigns : ', LawsignController.id);
+        //console.log( ' page show of page-groupsigns : ', LawsignController.id);
         LawsignController.getGroupsign();
 
     });

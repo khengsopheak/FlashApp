@@ -197,6 +197,7 @@ ul,li{
 }
 .ui-panel-inner{
     padding: 0;
+    padding-left: 15px;
 }
 .bar-header{
     padding: 15px;

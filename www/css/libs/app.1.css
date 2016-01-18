@@ -372,6 +372,7 @@ figure {
 
 img {
     vertical-align: middle;
+    height: 30px;
 }
 
 .img-responsive,

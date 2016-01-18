@@ -12,19 +12,6 @@ var LawOfflineModel = {
         persistence.flush();
 
     },
-    addFavoriteAticle: function (articles) {
-        $.map(articles, function (article) {
-            lawParam = {
-                lawid: article.lawid,
-                article: article.article,
-                title: article.title,
-                description: article.description
-            };
-            persistence.add(new Law(lawParam));
-        });
-        persistence.flush();
-
-    },
     update: function (oldLaws, newLaws){
         $.map(newLaws, function (newLaw){
             var isNew = true;

@@ -1,17 +1,13 @@
 var LawModel = {
     laws: [],
-    page: 1,
     getLaws: function () {
         return LawModel.laws;
     },
-    fetch: function (successCallback, errorCallback,idPage) {
-        console.log("id pagination",idPage);
+    fetch: function (successCallback, errorCallback) {
         $.ajax({
             type: "GET",
             datatype: "JSON",
-
-            //url: URL + "getlaws",
-            url: URL + "getlaws?page="+idPage,
+            url: URL + "",
             crossDomain: true,
             success: successCallback,
             error: errorCallback
