@@ -1,81 +1,23 @@
 $(function () {
-
-//    law
-    function exitFromApp()
-    {
-        navigator.app.exitApp();
-    }
+//    flashApp
     $(document).delegate("#page-laws", "pageshow", function () {
-        LawController.get();
+        flashAppController.getRegister();
     });
-    $(document).delegate("#pagelaw a", "click", function (  ) {
-        LawController.id = ($(this).data("id"));
+//    now page 
+     $(document).delegate("#page-now", "pageshow", function () {
+        flashAppController.getNow();
     });
-    var act=true;
-    $(document).delegate("#fave", "click", function () {
-        if(act){
-            act=false;
-            $("#fave .md-favorite").addClass('cs-favorite');
-        }else{
-            act=true;
-            $("#fave .md-favorite").removeClass('cs-favorite');
-        }
+//    lists page
+         $(document).delegate("#page-lists", "pageshow", function () {
+        flashAppController.getLists();
     });
-
-
-    $(document).delegate("#seeMore", "click", function () {
-        if(LawModel.page<LawController.lastPage){
-            LawModel.page=LawModel.page+1;
-            LawController.get();
-            $("#seeMore").hide();
-        }
-        //alert("was click page ID:"+LawModel.page);
-        //console.log("clicked:",LawModel.page);
+//    map page
+         $(document).delegate("#page-map", "pageshow", function () {
+        flashAppController.getMap();
     });
-    $(document).delegate("#seeSignMore", "click", function () {
-        if(LawsignModel.page<LawsignController.lastPage){
-            LawsignModel.page=LawsignModel.page+1;
-            LawsignController.get();
-            $("#seeSignMore").hide();
-        }
-        //alert("was click page ID:"+LawModel.page);
-        //console.log("clicked:",LawModel.page);
-    });
-
-
-    $(document).delegate("#page-articles", "pageshow", function () {
-        LawController.getArticle();
-    });
-
-
-//     lawsign
-    $(document).delegate("#page-lawsigns", "pageshow", function () {
-        LawsignController.get();
-    });
-
-    $(document).delegate("#pagelawsign a", "click", function () {
-        LawsignController.id = ($(this).data("id"));
-    });
-
-    $(document).delegate("#page-groupsigns", "pageshow", function () {
-        console.log( ' page show of page-groupsigns : ', LawsignController.id);
-        LawsignController.getGroupsign();
-
-    });
-
-    $(document).delegate("#pagegroupsign a", "click", function () {
-        GroupsignController.id = ($(this).data("id"));
-    });
-
-    $(document).delegate("#page-groupsignlists", "pageshow", function () {
-        GroupsignController.getGroupsignlist();
-    });
-
-
-//     contact
-    $(document).delegate("#page-contacts", "pageshow", function () {
-        ContactController.get();
-
+    //    map page
+         $(document).delegate("#page-parial", "pageshow", function () {
+        flashAppController.getParial();
     });
     
 //     focus search
