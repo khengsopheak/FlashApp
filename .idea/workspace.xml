@@ -2,135 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a5869e6-d59b-4e55-988e-9da5d91ae747" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/img/icon/camera3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/img/icon/cloud_thing_original.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/png/folder265.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/psd/folder265.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/png/homework.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/psd/homework.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/png/info27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/psd/info27.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/license.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/img/icon/old foto.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/png/paper11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/png/paper11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/psd/paper11.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/psd/paper11.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/png/shopping73.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/psd/shopping73.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/add-event.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/action/camera.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/controller/flash_app_controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/view/flash_app_view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/eps/folder265.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/svg/folder265.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/eps/homework.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/svg/homework.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/eps/info27.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/svg/info27.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/lists.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/template/map-search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/template/map-search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/js/app/action/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/app/action/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/template/next-register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/template/next-register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/now.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/view/now_view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/eps/paper11.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/svg/paper11.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/svg/paper11.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/parial.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/persistence.jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/persistence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/persistence.store.sql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/persistence.store.websql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/persistence.sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/eps/shopping73.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/svg/shopping73.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/template/test-register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/action/trimstr.js" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\Battambang-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\Battambang-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\Hanuman-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\Hanuman-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\Khmer.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\flaticon.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\flaticon.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\flaticon.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\flaticon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\flaticon.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\close_white_24x24.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\ic_search_wht_24dp_r1.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\image-app\12499273_810736455721573_305622756_o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\image-app\12516958_810736512388234_1929029849_o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\image-app\12528223_810779049050647_1120929018_o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\image-app\12545826_810736469054905_1512267001_o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\image-app\background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ក.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ខ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\គ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឃ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ង.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ច.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឆ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ជ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឈ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ញ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ដ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឋ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឌ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឍ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ណ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ត.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ថ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ទ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ធ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ន.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ប.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ផ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ព.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ភ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ម.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\យ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\រ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ល.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\វ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ស.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ហ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឡ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\អ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\search_white_24x24.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\upload\5644-19692222-554d-4105-8c55-ebdc778f03d6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\upload\icon-ios7-location-512.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\controller\article_controller.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\controller\contact_controller.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\controller\groupsign_controller.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\controller\law_controller.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\article_model.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\favorites.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\groupsign_model.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\groupsignlist_model.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\lawsign_model.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\article_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\contact_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\groupsign_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\groupsignlist_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\law_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\lawsign_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\core\db_connection.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\core\table.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\libs\jquery.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar" />
@@ -138,32 +9,31 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/app/action/act.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/action/act.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/app/action/act.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/app/action/act.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app/action/act.js" afterPath="$PROJECT_DIR$/www/js/app/action/act.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/app.1.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/app.1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/core/app.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/core/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/app/controller/flash_app_controller.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/app/controller/flash_app_controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js" afterPath="$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/app/view/flash_app_view.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/app/view/flash_app_view.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app/view/flash_app_view.js" afterPath="$PROJECT_DIR$/www/js/app/view/flash_app_view.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/jquery.mobile.squareui.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/jquery.mobile.squareui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/app/controller/lawsign_controller.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/controller/lawsign_controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/template/map-search.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/map-search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/template/map-search.html" afterPath="$PROJECT_DIR$/platforms/browser/www/template/map-search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/template/map-search.html" afterPath="$PROJECT_DIR$/www/template/map-search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/template/map.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/template/map.html" afterPath="$PROJECT_DIR$/www/template/map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/template/next-register.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/next-register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/template/next-register.html" afterPath="$PROJECT_DIR$/platforms/browser/www/template/next-register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/template/next-register.html" afterPath="$PROJECT_DIR$/www/template/next-register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/template/now.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/now.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/template/now.html" afterPath="$PROJECT_DIR$/platforms/browser/www/template/now.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/template/now.html" afterPath="$PROJECT_DIR$/www/template/now.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/template/register.html" afterPath="$PROJECT_DIR$/platforms/browser/www/template/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/template/parial.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/parial.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/template/parial.html" afterPath="$PROJECT_DIR$/www/template/parial.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/template/register.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/register.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/template/register.html" afterPath="$PROJECT_DIR$/www/template/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/style.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/style.css" afterPath="$PROJECT_DIR$/platforms/browser/www/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/style.css" afterPath="$PROJECT_DIR$/www/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\article_offline_model.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/model/law_offline_model.js" />
-      <change type="MOVED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\contact_model.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/model/flash_app_mode.js" />
-      <change type="MOVED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\law_model.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/model/now_model.js" />
     </list>
     <ignored path="FlashApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -187,8 +57,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5384617">
-              <caret line="155" column="72" selection-start-line="155" selection-start-column="72" selection-end-line="155" selection-end-column="72" />
+            <state vertical-scroll-proportion="-15.384615">
+              <caret line="179" column="47" selection-start-line="179" selection-start-column="47" selection-end-line="179" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -198,31 +68,100 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="map-search.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="now.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/template/now.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.9615386">
+              <caret line="92" column="28" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="next-register.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/template/next-register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7117552">
+              <caret line="119" column="10" selection-start-line="119" selection-start-column="10" selection-end-line="119" selection-end-column="10" />
+              <folding>
+                <element signature="n#div#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#4;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#form#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#form#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map-search.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/template/map-search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4380032">
-              <caret line="109" column="206" selection-start-line="109" selection-start-column="206" selection-end-line="109" selection-end-column="206" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="act.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/app/action/act.js">
+      <file leaf-file-name="map.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/template/map.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+            <state vertical-scroll-proportion="-13.961538">
+              <caret line="133" column="25" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flash_app_controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js">
+      <file leaf-file-name="add-event.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/template/add-event.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-19.961538">
+              <caret line="120" column="7" selection-start-line="120" selection-start-column="7" selection-end-line="120" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lists.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/template/lists.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.290909">
+              <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="119" selection-end-column="7" />
+              <folding>
+                <element signature="n#div#3;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="38" />
+              <caret line="239" column="0" selection-start-line="238" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -231,8 +170,8 @@
       <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/template/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+            <state vertical-scroll-proportion="-18.653847">
+              <caret line="136" column="25" selection-start-line="136" selection-start-column="25" selection-end-line="136" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
@@ -243,48 +182,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="now.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/template/now.html">
+      <file leaf-file-name="parial.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/template/parial.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="121" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="next-register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/template/next-register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
-              <caret line="143" column="47" selection-start-line="143" selection-start-column="47" selection-end-line="143" selection-end-column="47" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="236" column="25" selection-start-line="236" selection-start-column="25" selection-end-line="236" selection-end-column="25" />
+            <state vertical-scroll-proportion="-20.615385">
+              <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -306,14 +208,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/www/js/app/action/map.js" />
-        <option value="$PROJECT_DIR$/www/template/now.html" />
-        <option value="$PROJECT_DIR$/www/template/register.html" />
         <option value="$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js" />
         <option value="$PROJECT_DIR$/www/js/app/view/flash_app_view.js" />
         <option value="$PROJECT_DIR$/www/js/app/action/act.js" />
+        <option value="$PROJECT_DIR$/www/template/map-search.html" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/css/style.css" />
-        <option value="$PROJECT_DIR$/www/template/map-search.html" />
+        <option value="$PROJECT_DIR$/www/template/now.html" />
+        <option value="$PROJECT_DIR$/www/template/register.html" />
+        <option value="$PROJECT_DIR$/www/template/map.html" />
+        <option value="$PROJECT_DIR$/www/template/parial.html" />
         <option value="$PROJECT_DIR$/www/template/next-register.html" />
       </list>
     </option>
@@ -354,8 +258,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -426,6 +328,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -501,18 +405,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880846" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -531,14 +435,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/js/core/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -577,22 +473,32 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="116" column="14" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
           <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -658,22 +564,32 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="116" column="14" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
           <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -755,22 +671,32 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="116" column="14" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
           <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -813,22 +739,32 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
           <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -911,32 +847,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/template/add-event.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/template/parial.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/app/model/flash_app_mode.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/template/lists.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6923075">
-          <caret line="66" column="52" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -965,47 +880,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/template/now.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="121" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/template/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/template/test-register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/app/action/act.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1025,18 +903,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+    <entry file="file://$PROJECT_DIR$/www/js/app/action/act.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="236" column="25" selection-start-line="236" selection-start-column="25" selection-end-line="236" selection-end-column="25" />
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617">
-          <caret line="155" column="72" selection-start-line="155" selection-start-column="72" selection-end-line="155" selection-end-column="72" />
+        <state vertical-scroll-proportion="-15.384615">
+          <caret line="179" column="47" selection-start-line="179" selection-start-column="47" selection-end-line="179" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1045,36 +931,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/template/next-register.html">
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
-          <caret line="143" column="47" selection-start-line="143" selection-start-column="47" selection-end-line="143" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="239" column="0" selection-start-line="238" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/lists.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.290909">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="119" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#3;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/add-event.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.961538">
+          <caret line="120" column="7" selection-start-line="120" selection-start-column="7" selection-end-line="120" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/now.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9615386">
+          <caret line="92" column="28" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.653847">
+          <caret line="136" column="25" selection-start-line="136" selection-start-column="25" selection-end-line="136" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.961538">
+          <caret line="133" column="25" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/parial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.615385">
+          <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/template/map-search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4380032">
-          <caret line="109" column="206" selection-start-line="109" selection-start-column="206" selection-end-line="109" selection-end-column="206" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/next-register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7117552">
+          <caret line="119" column="10" selection-start-line="119" selection-start-column="10" selection-end-line="119" selection-end-column="10" />
+          <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#2;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#3;n#form#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

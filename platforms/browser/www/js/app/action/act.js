@@ -1,8 +1,15 @@
 $(function () {
-//    flashApp
-    $(document).delegate("#page-laws", "pageshow", function () {
+
+    $(document).delegate("#page-register", "pageshow", function () {
+
+        console.log("register-page");
         flashAppController.getRegister();
     });
+//    flashApp
+//    $(document).delegate("#page-register", "pageshow", function () {
+//        console.log("register-page");
+//        flashAppController.getRegister();
+//    });
     //next-register
     $(document).delegate("#next-register", "pageshow", function () {
         flashAppController.getNextRegister();
@@ -13,6 +20,7 @@ $(function () {
     });
 //    now page 
      $(document).delegate("#page-now", "pageshow", function () {
+         console.log("testomg");
         flashAppController.getNow();
     });
 //    lists page

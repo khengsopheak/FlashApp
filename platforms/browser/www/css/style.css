@@ -74,7 +74,10 @@
 }
 
 .ui-alt-icon .ui-icon-search::after, .ui-input-search::after {
-    background-image: url("img/search_white_24x24.png") !important;
+    /*background-image: url("img/search_white_24x24.png") !important;*/
+    background-size: 24px 24px;
+    background-size: 24px 24px;
+    background-size: 24px 24px;
     background-size: 24px 24px;
     height: 24px;
     width: 24px;
@@ -97,7 +100,7 @@
 }
 
 .ui-icon-delete::after {
-    background-image: url("img/close_white_24x24.png") !important;
+    /*background-image: url("img/close_white_24x24.png") !important;*/
 }
 
 .ui-input-search input::-webkit-input-placeholder {
@@ -229,9 +232,13 @@ html .ui-bar-a, html .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-in
 .app-menu a i, .app-search a i, .app-shr a i{
     /*padding: 0px !important;*/
 }
-html .ui-page-theme-a .ui-btn, html .ui-bar-a .ui-btn, html .ui-body-a .ui-btn, html body .ui-group-theme-a .ui-btn, html body .ui-btn.ui-btn-a, html .ui-page-theme-a .ui-btn:visited, html .ui-bar-a .ui-btn:visited, html .ui-body-a .ui-btn:visited, html body .ui-group-theme-a .ui-btn:visited, html body .ui-btn.ui-btn-a:visited{\
-background-color: #FFFFDB !important;
-    border-color: #FFFFFF;
-    color: #5e5e5e;
-}
 #map-page, #map-canvas { width: 100%; height: 100%; padding: 0; }
+html .ui-page-theme-a .ui-btn, html .ui-bar-a .ui-btn, html .ui-body-a .ui-btn, html body .ui-group-theme-a .ui-btn, html body .ui-btn.ui-btn-a, html .ui-page-theme-a .ui-btn:visited, html .ui-bar-a .ui-btn:visited, html .ui-body-a .ui-btn:visited, html body .ui-group-theme-a .ui-btn:visited, html body .ui-btn.ui-btn-a:visited{
+    border-color: #0A0A0A;
+    color: red !important;
+    background: transparent !important;
+}
+.ui-select .ui-btn .ui-icon-carat-d{
+    border-color: red !important;
+    color: blue !important;
+}

@@ -1,10 +1,12 @@
 var LawView = {
   registerRenderList: function (laws) {
+    console.log("register-page");
     AppTemplate.process("register.html", {laws: laws}, function (content) {
-      $("#page-laws").html(content);
-      $("#page-laws").trigger('create');
+      $("#page-register").html(content);
+      $("#page-register").trigger('create');
     });
   },
+
   nowRenderList: function (laws) {
       console.log("testing");
     AppTemplate.process("now.html", {laws: laws}, function (content) {
