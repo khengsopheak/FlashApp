@@ -2,105 +2,168 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a5869e6-d59b-4e55-988e-9da5d91ae747" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\css\fonts\Battambang-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\css\fonts\Battambang-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\css\fonts\Hanuman-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\css\fonts\Hanuman-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\css\fonts\Khmer.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\css\fonts\flaticon.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\css\fonts\flaticon.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\css\fonts\flaticon.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\css\fonts\flaticon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\css\fonts\flaticon.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimg\contact.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimg\driving.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimg\law.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimg\map.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimg\sign.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimg\sing-03.psd" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimg\testing.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimgs\catcar-01.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimgs\catcon6-01.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimgs\catlaw-01.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimgs\contact-01.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimgs\map-01.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimgs\sing-03.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\catimgs\test-02.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\close_white_24x24.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\ic_search_wht_24dp_r1.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\image-app\12499273_810736455721573_305622756_o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\image-app\12516958_810736512388234_1929029849_o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\image-app\12528223_810779049050647_1120929018_o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\image-app\12545826_810736469054905_1512267001_o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\image-app\background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ក.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ខ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\គ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ឃ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ង.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ច.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ឆ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ជ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ឈ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ញ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ដ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ឋ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ឌ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ឍ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ណ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ត.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ថ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ទ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ធ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ន.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ប.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ផ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ព.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ភ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ម.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\យ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\រ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ល.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\វ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ស.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ហ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\ឡ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\imgtrimstr\អ.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\search_white_24x24.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\upload\5644-19692222-554d-4105-8c55-ebdc778f03d6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\img\upload\icon-ios7-location-512.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\controller\article_controller.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\controller\contact_controller.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\controller\groupsign_controller.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\controller\law_controller.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\model\article_model.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\model\article_offline_model.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\model\contact_model.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\model\favorites.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\model\groupsign_model.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\model\groupsignlist_model.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\model\law_model.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\model\lawsign_model.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\view\article_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\view\contact_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\view\groupsign_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\view\groupsignlist_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\view\law_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\app\view\lawsign_view.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\core\db_connection.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\core\table.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\browser\www\js\libs\jquery.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/img/icon/camera3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/img/icon/cloud_thing_original.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/png/folder265.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/psd/folder265.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/png/homework.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/psd/homework.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/png/info27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/psd/info27.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/license.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/img/icon/old foto.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/png/paper11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/png/paper11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/psd/paper11.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/psd/paper11.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/png/shopping73.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/psd/shopping73.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/add-event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/action/camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/controller/flash_app_controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/view/flash_app_view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/flaticon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/eps/folder265.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/svg/folder265.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/eps/homework.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/svg/homework.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/eps/info27.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/svg/info27.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/lists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/template/map-search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/template/map-search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/js/app/action/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/app/action/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/template/next-register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/template/next-register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/now.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/view/now_view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/eps/paper11.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/svg/paper11.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/svg/paper11.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/parial.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/persistence.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/persistence.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/persistence.store.sql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/persistence.store.websql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/libs/persistence.sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/template/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/eps/shopping73.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/fonts/icon/svg/shopping73.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/template/test-register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/action/trimstr.js" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\Battambang-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\Battambang-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\Hanuman-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\Hanuman-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\Khmer.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\flaticon.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\flaticon.eot" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\flaticon.svg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\flaticon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\css\fonts\flaticon.woff" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\close_white_24x24.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\ic_search_wht_24dp_r1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\image-app\12499273_810736455721573_305622756_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\image-app\12516958_810736512388234_1929029849_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\image-app\12528223_810779049050647_1120929018_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\image-app\12545826_810736469054905_1512267001_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\image-app\background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ក.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ខ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\គ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឃ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ង.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ច.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឆ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ជ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឈ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ញ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ដ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឋ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឌ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឍ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ណ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ត.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ថ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ទ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ធ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ន.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ប.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ផ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ព.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ភ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ម.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\យ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\រ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ល.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\វ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ស.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ហ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\ឡ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\imgtrimstr\អ.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\search_white_24x24.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\upload\5644-19692222-554d-4105-8c55-ebdc778f03d6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\img\upload\icon-ios7-location-512.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\controller\article_controller.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\controller\contact_controller.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\controller\groupsign_controller.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\controller\law_controller.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\article_model.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\favorites.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\groupsign_model.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\groupsignlist_model.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\lawsign_model.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\article_view.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\contact_view.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\groupsign_view.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\groupsignlist_view.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\law_view.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\view\lawsign_view.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\core\db_connection.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\core\table.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\libs\jquery.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/app/action/act.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/action/act.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/app/action/act.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/app/action/act.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/libs/app.1.css" afterPath="$PROJECT_DIR$/platforms/browser/www/css/libs/app.1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/core/app.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/core/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/index.css" afterPath="$PROJECT_DIR$/platforms/browser/www/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app/action/act.js" afterPath="$PROJECT_DIR$/www/js/app/action/act.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/app.1.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/app.1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/core/app.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/core/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/app/controller/flash_app_controller.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/app/controller/flash_app_controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js" afterPath="$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/app/view/flash_app_view.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/app/view/flash_app_view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app/view/flash_app_view.js" afterPath="$PROJECT_DIR$/www/js/app/view/flash_app_view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/libs/jquery.mobile.squareui.css" afterPath="$PROJECT_DIR$/platforms/browser/www/css/libs/jquery.mobile.squareui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/app/controller/lawsign_controller.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/app/controller/lawsign_controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/template/lists.html" afterPath="$PROJECT_DIR$/www/template/lists.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/jquery.mobile.squareui.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/libs/jquery.mobile.squareui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/app/controller/lawsign_controller.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/controller/lawsign_controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/template/now.html" afterPath="$PROJECT_DIR$/platforms/browser/www/template/now.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/template/now.html" afterPath="$PROJECT_DIR$/www/template/now.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/template/register.html" afterPath="$PROJECT_DIR$/platforms/browser/www/template/register.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/template/register.html" afterPath="$PROJECT_DIR$/www/template/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/style.css" afterPath="$PROJECT_DIR$/platforms/browser/www/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/style.css" afterPath="$PROJECT_DIR$/www/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\article_offline_model.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/model/law_offline_model.js" />
+      <change type="MOVED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\contact_model.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/model/flash_app_mode.js" />
+      <change type="MOVED" beforePath="E:\NewTem\FlashApp\platforms\android\assets\www\js\app\model\law_model.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/app/model/now_model.js" />
     </list>
     <ignored path="FlashApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -121,11 +184,107 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.055105347">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="155" column="72" selection-start-line="155" selection-start-column="72" selection-end-line="155" selection-end-column="72" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map-search.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/template/map-search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4380032">
+              <caret line="109" column="206" selection-start-line="109" selection-start-column="206" selection-end-line="109" selection-end-column="206" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="act.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/app/action/act.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flash_app_controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/template/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="now.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/template/now.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="121" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="next-register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/template/next-register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.423077">
+              <caret line="143" column="47" selection-start-line="143" selection-start-column="47" selection-end-line="143" selection-end-column="47" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="236" column="25" selection-start-line="236" selection-start-column="25" selection-end-line="236" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -133,8 +292,31 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/js/app/action/map.js" />
+        <option value="$PROJECT_DIR$/www/template/now.html" />
+        <option value="$PROJECT_DIR$/www/template/register.html" />
+        <option value="$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js" />
+        <option value="$PROJECT_DIR$/www/js/app/view/flash_app_view.js" />
+        <option value="$PROJECT_DIR$/www/js/app/action/act.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
+        <option value="$PROJECT_DIR$/www/template/map-search.html" />
+        <option value="$PROJECT_DIR$/www/template/next-register.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -146,8 +328,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
-    <option name="height" value="780" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -156,7 +338,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -172,6 +354,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -204,10 +388,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlashApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlashApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlashApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlashApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,6 +433,51 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="E:/Working/mobile/CAM-NGO-Directory" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\NewTem\FlashApp\www\template" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -230,10 +493,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="780" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24450952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -247,7 +510,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880846" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -268,10 +531,549 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/js/core/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.055105347">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/action/act.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/next-register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="14" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="211" column="30" selection-start-line="211" selection-start-column="30" selection-end-line="211" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/map-search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/core/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/action/act.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/next-register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="14" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="211" column="30" selection-start-line="211" selection-start-column="30" selection-end-line="211" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/map-search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/core/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="46" selection-start-line="145" selection-start-column="46" selection-end-line="145" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/action/act.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/view/flash_app_view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="87" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/next-register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="14" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="87" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/next-register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/action/act.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="87" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="139" column="14" selection-start-line="139" selection-start-column="14" selection-end-line="139" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/add-event.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/now.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="139" column="14" selection-start-line="139" selection-start-column="14" selection-end-line="139" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/add-event.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/add-event.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/parial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/model/flash_app_mode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/lists.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6923075">
+          <caret line="66" column="52" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33228347">
+          <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/core/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/action/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/now.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="121" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/controller/flash_app_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/test-register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/action/act.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/core/app_template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app/view/flash_app_view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="236" column="25" selection-start-line="236" selection-start-column="25" selection-end-line="236" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="155" column="72" selection-start-line="155" selection-start-column="72" selection-end-line="155" selection-end-column="72" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/next-register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="143" column="47" selection-start-line="143" selection-start-column="47" selection-end-line="143" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#3;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#3;n#form#1;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/template/map-search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4380032">
+          <caret line="109" column="206" selection-start-line="109" selection-start-column="206" selection-end-line="109" selection-end-column="206" />
           <folding />
         </state>
       </provider>

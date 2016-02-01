@@ -213,7 +213,7 @@ html .ui-bar-a, html .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-in
     padding: 5px;
     border-radius: 100%;
     background-color: #D8CECE;
-    margin-top: 139px;
+    margin-top: 130px;
     margin-right: 10px;
 }
 .txt{
@@ -226,3 +226,12 @@ html .ui-bar-a, html .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-in
         .tab-menu a{
             color: red !important;;
         }
+.app-menu a i, .app-search a i, .app-shr a i{
+    /*padding: 0px !important;*/
+}
+html .ui-page-theme-a .ui-btn, html .ui-bar-a .ui-btn, html .ui-body-a .ui-btn, html body .ui-group-theme-a .ui-btn, html body .ui-btn.ui-btn-a, html .ui-page-theme-a .ui-btn:visited, html .ui-bar-a .ui-btn:visited, html .ui-body-a .ui-btn:visited, html body .ui-group-theme-a .ui-btn:visited, html body .ui-btn.ui-btn-a:visited{\
+background-color: #FFFFDB !important;
+    border-color: #FFFFFF;
+    color: #5e5e5e;
+}
+#map-page, #map-canvas { width: 100%; height: 100%; padding: 0; }

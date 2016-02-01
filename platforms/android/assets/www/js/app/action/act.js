@@ -1,92 +1,49 @@
 $(function () {
 
-//    law
-    function exitFromApp()
-    {
-        navigator.app.exitApp();
-    }
-    $(document).delegate("#page-laws", "pageshow", function () {
-        LawController.get();
+    $(document).delegate("#page-register", "pageshow", function () {
+
+        console.log("register-page");
+        flashAppController.getRegister();
     });
-    $(document).delegate("#pagelaw a", "click", function (  ) {
-        LawController.id = ($(this).data("id"));
+//    flashApp
+//    $(document).delegate("#page-register", "pageshow", function () {
+//        console.log("register-page");
+//        flashAppController.getRegister();
+//    });
+    //next-register
+    $(document).delegate("#next-register", "pageshow", function () {
+        flashAppController.getNextRegister();
     });
-    var act=true;
-    $(document).delegate("#fave", "click", function () {
-        if(act){
-            act=false;
-            $("#fave .md-favorite").addClass('cs-favorite');
-        }else{
-            act=true;
-            $("#fave .md-favorite").removeClass('cs-favorite');
-        }
+    //map-search
+    $(document).delegate("#map-search", "pageshow", function () {
+        flashAppController.getMapSearchRegister();
     });
-
-
-    $(document).delegate("#seeMore", "click", function () {
-        if(LawModel.page<LawController.lastPage){
-            LawModel.page=LawModel.page+1;
-            LawController.get();
-            $("#seeMore").hide();
-        }
-        //alert("was click page ID:"+LawModel.page);
-        //console.log("clicked:",LawModel.page);
+//    now page 
+     $(document).delegate("#page-now", "pageshow", function () {
+         console.log("testomg");
+        flashAppController.getNow();
     });
-    $(document).delegate("#seeSignMore", "click", function () {
-        if(LawsignModel.page<LawsignController.lastPage){
-            LawsignModel.page=LawsignModel.page+1;
-            LawsignController.get();
-            $("#seeSignMore").hide();
-        }
-        //alert("was click page ID:"+LawModel.page);
-        //console.log("clicked:",LawModel.page);
+//    lists page
+         $(document).delegate("#page-lists", "pageshow", function () {
+        flashAppController.getLists();
     });
-
-
-    $(document).delegate("#page-articles", "pageshow", function () {
-        LawController.getArticle();
+//    map page
+         $(document).delegate("#page-map", "pageshow", function () {
+        flashAppController.getMap();
     });
-
-
-//     lawsign
-    $(document).delegate("#page-lawsigns", "pageshow", function () {
-        LawsignController.get();
-    });
-
-    $(document).delegate("#pagelawsign a", "click", function () {
-        LawsignController.id = ($(this).data("id"));
-    });
-
-    $(document).delegate("#page-groupsigns", "pageshow", function () {
-        console.log( ' page show of page-groupsigns : ', LawsignController.id);
-        LawsignController.getGroupsign();
-
-    });
-
-    $(document).delegate("#pagegroupsign a", "click", function () {
-        GroupsignController.id = ($(this).data("id"));
-    });
-
-    $(document).delegate("#page-groupsignlists", "pageshow", function () {
-        GroupsignController.getGroupsignlist();
-    });
-
-
-//     contact
-    $(document).delegate("#page-contacts", "pageshow", function () {
-        ContactController.get();
-
+    //    map page
+         $(document).delegate("#page-parial", "pageshow", function () {
+        flashAppController.getParial();
     });
     
 //     focus search
-    $(document).delegate('#btn-search', 'click', function () {
+    $(document).delegate('#btn-search', 'onClick', function () {
         $("#popupsearch").popup({
             afteropen: function () {
                 $('#filterlaw').focus();
             }
         });
     });
-
 
 //  loding page
     $(document).on('pagebeforecreate', '[data-role="page"]', function () {
@@ -105,9 +62,8 @@ $(function () {
         var interval = setInterval(function () {
             $.mobile.loading('hide');
             clearInterval(interval);
-        }, 1000);
+        }, 100);
     });
 
 //    end loading
-
 });

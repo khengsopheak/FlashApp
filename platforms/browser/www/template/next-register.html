@@ -1,0 +1,167 @@
+<div data-role="panel" id="left-panel2" data-display="overlay" data-position="left" class="panel-index">
+    <div>
+        <h1 class="bar-header">FLASH APP</h1>
+    </div>
+    <div class="bar-content">
+        <ul class="menu">
+            <li>
+                <a href="index.html">
+                    <span class="glyph-icon flaticon-info27"></span>
+                    New!
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="glyph-icon flaticon-shopping73"></span>
+                    Panial
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="glyph-icon flaticon-paper11"></span>
+                    Map
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="glyph-icon flaticon-homework"></span>
+                    List
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="glyph-icon flaticon-folder265"></span>
+                    Comple
+                </a>
+            </li>
+        </ul>
+        <ul class="menu">
+            <li>
+                <a onclick="exitFromApp()">
+                    <span class="glyph-icon flaticon-info27"></span>
+                    close
+                </a>
+            </li>
+            <li>
+                <a onclick="exitFromApp()">
+                    <span class="glyph-icon flaticon-info27"></span>
+                    help
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!--/panel-->
+<div data-role="header" data-id="persistent" data-position="fixed" class="header">
+    <div class="app-menu">
+        <a href="#left-panel2" class=""><i class="md md-dehaze"></i></a>
+    </div>
+
+    <div class="app-title">
+        <img style="height: 100%;margin-left: 50%;" src="img/icon/Adobe-Flash-app1.png" alt=""/>
+    </div>
+
+    <div class="app-search">
+        <a href="#popupsearch" data-rel="popup" data-inline="true" data-transition="slide" class="srmenu"
+           id="btn-search">
+            <i class="md md-search"></i>
+        </a>
+    </div>
+
+    <div data-role="popup" class="h-serach" id="popupsearch">
+        <form class="ui-filterable">
+            <input id="filterlaw" data-type="search" placeholder="Search"/>
+        </form>
+    </div>
+</div>
+
+<!-- /header -->
+<div data-role="content" style="padding: 0px !important;margin: 0px !important;" class="cont">
+    <div style="height: 40px;width: 100%; background-color: #f00; padding: 5px;"></div>
+    <div style="height: 30px;width: 100%; background-color: yellow; padding: 5px;">
+        <h5>ADD A NEW EVENT</h5>
+    </div>
+    <div style="height: 20px;width: 100%; background-color: #005599;padding: 5px;">
+        <h5 style="float: left;color: #fff">Search The Place</h5>
+    </div>
+    <div style="background-color: #fff;height: 60px; width: 100%;">
+        <div style="width: 90%;padding: 5px; float: left">
+            <input type="text" placeholder="The Palace, Rue Do Fauborg"/>
+        </div>
+        <div style="float: left;width: 10%">
+            <a href="#map-search">
+                <i class="md md-search" style="text-align: center !important;"></i>
+            </a>
+        </div>
+    </div>
+    <div class="profile-image">
+        <div class='add-profile'>
+            <img src="img/icon/camera3.png" alt="No Image"/>
+        </div>
+    </div>
+    <hr/>
+    <div>
+        <form>
+            <div>
+                <select name="">
+                    <option value="1">The 1st Option</option>
+                    <option value="2">The 2nd Option</option>
+                    <option value="3">The 3rd Option</option>
+                    <option value="4">The 4th Option</option>
+                </select>
+            </div>
+        </form>
+    </div>
+    <div>
+        <form>
+            <div class="ui-field-contain">
+                <select name="select-native-1" id="select-native-1">
+                    <option value="1">The 1st Option</option>
+                    <option value="2">The 2nd Option</option>
+                    <option value="3">The 3rd Option</option>
+                    <option value="4">The 4th Option</option>
+                </select>
+            </div>
+        </form>
+    </div>
+    <div>
+        <div data-role="fieldcontain">
+            <textarea rows="3" name="textarea-11" id="textarea-1" class="foo"></textarea>
+        </div>
+    </div>
+</div>
+<!--footer-->
+<div data-role="footer" data-position="fixed" class="footer">
+    <div class="tab-menu">
+        <a href="#">
+            <h1 class="glyph-icon flaticon-info27"></h1>
+            <h5>New!</h5>
+        </a>
+    </div>
+
+    <div class="tab-menu">
+        <a href="#">
+            <h1 class="glyph-icon flaticon-shopping73"></h1>
+            <h5>parial</h5>
+        </a>
+    </div>
+    <div class="tab-menu">
+        <a href="#">
+            <h1 class="glyph-icon flaticon-paper11"></h1>
+            <h5>Map</h5>
+        </a>
+    </div>
+    <div class="tab-menu">
+        <a href="#">
+            <h1 class="glyph-icon flaticon-homework"></h1>
+            <h5>Lists</h5>
+        </a>
+    </div>
+    <div class="tab-menu">
+        <a href="#" class="active">
+            <h1 class="glyph-icon flaticon-folder265"></h1>
+            <h5>Comple</h5>
+        </a>
+    </div>
+</div>

@@ -3,6 +3,14 @@ $(function () {
     $(document).delegate("#page-laws", "pageshow", function () {
         flashAppController.getRegister();
     });
+    //next-register
+    $(document).delegate("#next-register", "pageshow", function () {
+        flashAppController.getNextRegister();
+    });
+    //map-search
+    $(document).delegate("#map-search", "pageshow", function () {
+        flashAppController.getMapSearchRegister();
+    });
 //    now page 
      $(document).delegate("#page-now", "pageshow", function () {
         flashAppController.getNow();
@@ -21,14 +29,13 @@ $(function () {
     });
     
 //     focus search
-    $(document).delegate('#btn-search', 'click', function () {
+    $(document).delegate('#btn-search', 'onClick', function () {
         $("#popupsearch").popup({
             afteropen: function () {
                 $('#filterlaw').focus();
             }
         });
     });
-
 
 //  loding page
     $(document).on('pagebeforecreate', '[data-role="page"]', function () {
@@ -47,9 +54,8 @@ $(function () {
         var interval = setInterval(function () {
             $.mobile.loading('hide');
             clearInterval(interval);
-        }, 1000);
+        }, 100);
     });
 
 //    end loading
-
 });

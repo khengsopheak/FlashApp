@@ -1,16 +1,3 @@
-
-@font-face {
-    font-family: Khmer;
-    src: url(fonts/Khmer.ttf);
-}
-@font-face {
-    font-family: Hanuman;
-    src: url(fonts/Hanuman-Regular.ttf);
-}
-@font-face {
-    font-family: Battambang;
-    src: url(fonts/Battambang-Regular.ttf);
-}
 html .ui-body-a {
     border-width: 0px;
     border-style: none;
@@ -51,11 +38,6 @@ ul,li{
 }
 .p-d-0{
     padding: 0 !important;
-}
-.stats-bar .flaticon:before{
-    color: #000 ;
-    font-size: 50px;
-    margin-left: 15px;
 }
 .l-title,.m-title,.s-title{
     line-height: 25px;
@@ -215,6 +197,7 @@ ul,li{
 }
 .ui-panel-inner{
     padding: 0;
+    padding-left: 15px;
 }
 .bar-header{
     padding: 15px;

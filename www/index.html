@@ -15,9 +15,17 @@
         <title>Hello World</title>
     </head>
 
-
     <body>
+    <!--<div data-role="page" id="map-page" data-url="map-page">-->
+        <!--    <div data-role="header" data-theme="a">-->
+        <!--    <h1>Maps</h1>-->
+        <!--    </div>-->
+        <!--    <div role="main" class="ui-content" id="map-canvas">-->
+        <!--        &lt;!&ndash; map loads here... &ndash;&gt;-->
+        <!--    </div>-->
+    <!--</div>-->
 
+    <!--home page-->
         <div data-role="page" id="page-home" style="background-image: url(img/icon/cloud_thing_original.jpg);">
             <div data-role="panel" id="left-panel2" data-display="overlay" data-position="left" class="panel-index">
                 <div>
@@ -72,7 +80,6 @@
                     </ul>
                 </div>
             </div>
-
             <!-- /panel -->
             <div data-role="header" data-id="persistent" data-position="fixed" class="header">
                 <div class="app-menu">
@@ -100,7 +107,7 @@
             <!-- /header -->
             <div data-role="content">
                 <a href="#" data-role="button" class="btnConnection">Connection</a>
-                <a href="#page-laws" data-role="button" class="btnRegister">Register</a>
+                <a href="#page-register" data-role="button" class="btnRegister">Register</a>
             </div>
 
             <!--footer-->
@@ -139,25 +146,34 @@
             </div>
         </div>
 
-        <div data-role="page" id="page-laws"></div>
+
         <div data-role="page" id="page-now"></div>  
+        <div data-role="page" id="page-register"></div>
         <div data-role="page" id="page-lists"></div>
         <div data-role="page" id="page-map"></div>
         <div data-role="page" id="page-parial"></div>
+        <div data-role="page" id="next-register"></div>
+        <div data-role="page" id="map-search" data-url="map-page"></div>
 
 
-        
-        <!--import scrip file-->
+
         <script type="text/javascript" src="cordova.js"></script>
         <script src="js/core/app.js" type="text/javascript"></script>
         <script src="js/libs/handlebars-v4.0.2.js" type="text/javascript"></script>
         <script src="js/core/app_template.js" type="text/javascript"></script>
-        <script src="js/app/action/act.js" type="text/javascript"></script>
         <script src="js/app/action/sidepanel.js" type="text/javascript"></script>
         <script src="js/app/controller/flash_app_controller.js" type="text/javascript"></script>
         <script src="js/app/view/flash_app_view.js" type="text/javascript"></script>
         <script src="js/core/app_cache.js" type="text/javascript"></script>
         <script src="js/app/model/flash_app_mode.js" type="text/javascript"></script>
+
+        <script src="js/app/action/act.js" type="text/javascript"></script>
+        <script src="js/app/action/map.js" type="text/javascript"></script>
+
+
+    <!--&lt;!&ndash;import scrip file&ndash;&gt;-->
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>-->
+    <!--<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&callback=initialize"></script>-->
         <script type="text/javascript">
                         App.onDeviceReady();
                         $(document).on("mobileinit", function () {

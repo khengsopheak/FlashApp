@@ -40,4 +40,20 @@ var flashAppController = {
                     console.log('error ; ', error);
                 });
     },
+    getNextRegister: function () {
+        LawModel.fetch(function (laws) {
+                LawView.nextRegisterRenderList(laws);
+            },
+            function (error) {
+                console.log('error ; ', error);
+            });
+    },
+    getMapSearchRegister: function () {
+        LawModel.fetch(function (laws) {
+                LawView.mapSearchRenderList(laws);
+            },
+            function (error) {
+                console.log('error ; ', error);
+            });
+    }
 };

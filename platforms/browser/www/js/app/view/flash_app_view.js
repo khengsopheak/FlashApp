@@ -32,5 +32,20 @@ var LawView = {
       $("#page-parial").html(content);
       $("#page-parial").trigger('create');
     });
+  },
+    nextRegisterRenderList: function (laws) {
+    console.log("testing-parail");
+    AppTemplate.process("next-register.html", {laws: laws}, function (content) {
+      $("#next-register").html(content);
+      $("#next-register").trigger('create');
+    });
+  },
+
+  mapSearchRenderList: function (laws) {
+    console.log("testing-parail");
+    AppTemplate.process("map-search.html", {laws: laws}, function (content) {
+      $("#map-search").html(content);
+      $("#map-search").trigger('create');
+    });
   }
 };
