@@ -15,4 +15,8 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <vs:plugin name="plugin.google.maps">
+        <param name="android_key1" value="AIzaSyDfRw9TBjp7tt6fXLIuEhV0vyFsQXwvuI" />
+        <param name="browser_key1" value="AIzaSyDD9HMFhdT2LW8E8XKqNs4KJslO9E37j8M" />
+    </vs:plugin>
 </widget>
