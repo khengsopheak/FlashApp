@@ -1,17 +1,44 @@
 $(function () {
 
-    $(document).delegate("#page-register", "pageshow", function () {
+    $(document).delegate("#btnregister", "click", function () {
+        alert("inster record");
+        var firstname=$('#firstname').val();
+        var lastname=$('#lastname').val();
+        var date=$('#date').val();
+        var tel=$('#tel').val();
+        var opt=$('#opt').val();
+        $.ajax({
+            url:"http://espr.website/registers.php",
+            type:"POST",
+            async:false,
+            data:
+            {
+                btnregister:1,
+                firstname:firstname,
+                lastname:lastname,
+                date:date,
+                tel:tel,
+                opt:opt
+            },
+            success:function(resule){
+                alert("success to inserted");
+            }
+        })
 
+    });
+
+    $(document).delegate("#page-register", "pageshow", function () {
         console.log("register-page");
         flashAppController.getRegister();
     });
+
 //    flashApp
 //    $(document).delegate("#page-register", "pageshow", function () {
 //        console.log("register-page");
 //        flashAppController.getRegister();
 //    });
     //next-register
-    $(document).delegate("#next-register", "pageshow", function () {
+    $(document). delegate("#next-register", "pageshow", function () {
         flashAppController.getNextRegister();
     });
     //map-search
@@ -63,6 +90,11 @@ $(function () {
             $.mobile.loading('hide');
             clearInterval(interval);
         }, 100);
+    });
+    $(document).ready(function(){
+        $('.btnSubmit').on("click",function(){
+            alert("click successful");
+        });
     });
 
 //    end loading

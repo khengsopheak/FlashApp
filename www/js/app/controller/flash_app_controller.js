@@ -1,5 +1,9 @@
 var flashAppController = {
+
     id: "",
+    register: function(){
+        alert("click successful");
+    },
     getRegister: function () {
         LawModel.fetch(function (laws) {
             LawView.registerRenderList(laws);
