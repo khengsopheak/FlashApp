@@ -1,12 +1,13 @@
 $(function () {
-
     $(document).delegate("#btnregister", "click", function () {
-        alert("inster record");
         var firstname=$('#firstname').val();
         var lastname=$('#lastname').val();
-        var date=$('#date').val();
-        var tel=$('#tel').val();
-        var opt=$('#opt').val();
+        var email=$('#email').val();
+        var password=$('#password').val();
+        var description=$('#description').val();
+        var n = email.indexOf("@");
+        alert(n);
+        if(firstname!='' && lastname!='' && n!=-1 && password!=''){
         $.ajax({
             url:"http://espr.website/registers.php",
             type:"POST",
@@ -16,14 +17,15 @@ $(function () {
                 btnregister:1,
                 firstname:firstname,
                 lastname:lastname,
-                date:date,
-                tel:tel,
-                opt:opt
+                email:email,
+                password:password,
+                description:description
             },
             success:function(resule){
-                alert("success to inserted");
+                //alert("success to inserted");
             }
         })
+        }
 
     });
 

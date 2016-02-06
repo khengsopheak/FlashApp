@@ -92,18 +92,17 @@
     <div>
         <form action="#next-register">
         <div class="txt">
-            <input type="text" name="firstname" id="firstname" value="" placeholder="Username"/>
+            <input type="text" name="firstname" id="firstname" value="" placeholder="Username" required/>
         </div>
         <div class="txt">
-            <input type="text" name="lastname" id="lastname" value="" placeholder="Sing"/>
+            <input type="text" name="lastname" id="lastname" value="" placeholder="Sing" required/>
         </div>
         <div data-role="fieldcontain" class="ui-hide-label">
-            <input type="email" name="email" id="email" value="" placeholder="Sing"/>
-            <input type="password" name="password" id="password" value="" placeholder="Password"/>
-            <input type="text" name="repassword" id="nombire-de-points" value="" placeholder="Nombire de points"/>
-            <a href="#" id="btnregister" data-role="button"
-               style="color: #fff;background-color: #EC9E29 !important;border-color: #EC9E29">Register</a>
-
+            <input type="email" name="email" id="email" value="" placeholder="Sing" required/>
+            <input type="password" name="password" id="password" value="" placeholder="password" required/>
+            <input type="text" name="description" id="description" value="" placeholder="Description"/>
+            <input type="submit" value="Register" id="btnregister" data-role="button"
+                   style="color: #fff;background-color: #EC9E29 !important;border-color: #EC9E29">
             <div id="bton-down-icons" class="clickme" style="background-color: rgba(102, 165, 35, 0.8);">
             </div>
 
