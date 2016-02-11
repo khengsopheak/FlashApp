@@ -25,6 +25,8 @@ $(function () {
                 //alert("success to inserted");
             }
         })
+        }else{
+            document.getElementById('message-error').style.display='inline';
         }
 
     });
@@ -73,6 +75,13 @@ $(function () {
             }
         });
     });
+    function brnclick(){
+        $("#popupsearch").popup({
+            afteropen: function () {
+                $('#filterlaw').focus();
+            }
+        });
+    }
 
 //  loding page
     $(document).on('pagebeforecreate', '[data-role="page"]', function () {

@@ -196,6 +196,7 @@ html .ui-bar-a, html .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-in
     font-family: arial;
     font-size: 22px;
     padding: 15px;
+    background: #f00;
 }
 .ui-field-contain, .ui-mobile fieldset.ui-field-contain{
     padding: 0px !important;
@@ -203,7 +204,7 @@ html .ui-bar-a, html .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-in
 }
 .profile-image{
     width: 100%;
-    height: 200px;
+    height: 250px;
     background-repeat: no-repeat;
     background-size: 100%;
     background-image: url('../img/icon/old foto.jpg');
@@ -216,8 +217,11 @@ html .ui-bar-a, html .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-in
     padding: 5px;
     border-radius: 100%;
     background-color: #D8CECE;
-    margin-top: 130px;
+    margin-top: 150px;
     margin-right: 10px;
+}
+.add-profile a{
+    margin: 0px !important;
 }
 .txt{
     width: 50% !important; 
@@ -227,21 +231,26 @@ html .ui-bar-a, html .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-in
             color: #666 !important;;
         }
         .tab-menu a{
-            color: #fff !important;;
+            color: #fff !important;
         }
 .app-menu a i, .app-search a i, .app-shr a i{
     /*padding: 0px !important;*/
 }
 #map-page, #map-canvas { width: 100%; height: 100%; padding: 0; }
 html .ui-page-theme-a .ui-btn, html .ui-bar-a .ui-btn, html .ui-body-a .ui-btn, html body .ui-group-theme-a .ui-btn, html body .ui-btn.ui-btn-a, html .ui-page-theme-a .ui-btn:visited, html .ui-bar-a .ui-btn:visited, html .ui-body-a .ui-btn:visited, html body .ui-group-theme-a .ui-btn:visited, html body .ui-btn.ui-btn-a:visited{
-    border-color: #0A0A0A;
+    border-color: #FFC8C8;
     color: #FFC8C8;
     background: transparent !important;
 }
-.ui-select .ui-btn .ui-icon-carat-d{
-    border-color: #fff !important;
-    color: blue !important;
-}
 .navbar-act{
     color: #FFFFFF !important;
+}
+html .ui-page-theme-a  .ui-hide-label .ui-btn{
+    border-color: #FF9B00  !important;
+    color: #FFFFFF !important;
+    background: #FF9B00 !important;
+    margin: 5px;
+}
+.txt .ui-input-text, .ui-hide-label .ui-input-text{
+    margin: 5px;
 }

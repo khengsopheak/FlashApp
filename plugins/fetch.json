@@ -17,5 +17,13 @@
         "variables": {
             "API_KEY_FOR_IOS": "AIzaSyDETNeeoqc3iGumlAieO5ovwDmadoQ0LYk"
         }
+    },
+    "org.apache.cordova.camera": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.camera"
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }

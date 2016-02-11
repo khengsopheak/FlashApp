@@ -25,4 +25,7 @@
         <param name="android_key1" value="AIzaSyDfRw9TBjp7tt6fXLIuEhV0vyFsQXwvuI" />
         <param name="browser_key1" value="AIzaSyDD9HMFhdT2LW8E8XKqNs4KJslO9E37j8M" />
     </vs:plugin>
+    <feature name="Camera">
+        <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
+    </feature>
 </widget>
