@@ -1,4 +1,7 @@
 $(function () {
+    $(document).on("mobileinit", function() {
+        $.mobile.toolbar.prototype.options.hideDuringFocus = "";
+    });
     $(document).delegate("#btnregister", "click", function () {
         var firstname=$('#firstname').val();
         var lastname=$('#lastname').val();
@@ -30,43 +33,56 @@ $(function () {
         }
 
     });
+    
+ 
+    $(document).delegate("#page-now", "pageshow", function () {
 
+        console.log("register-page");
+        FlashAppController.getNow();
+    });
     $(document).delegate("#page-register", "pageshow", function () {
         console.log("register-page");
-        flashAppController.getRegister();
+        FlashAppController.getRegister();
+    });
+    $(document).delegate("#page-parail", "pageshow", function () {
+        console.log("parail-page");
+        FlashAppController.getParail();
+    });
+    $(document).delegate("#page-add-maps", "pageshow", function () {
+        console.log("maps-page");
+        FlashAppController.getAddMaps();
     });
 
-//    flashApp
-//    $(document).delegate("#page-register", "pageshow", function () {
-//        console.log("register-page");
-//        flashAppController.getRegister();
-//    });
-    //next-register
-    $(document). delegate("#next-register", "pageshow", function () {
-        flashAppController.getNextRegister();
+    $(document).delegate("#page-maps", "pageshow", function () {
+        console.log("maps-page");
+        FlashAppController.getMaps();
     });
-    //map-search
-    $(document).delegate("#map-search", "pageshow", function () {
-        flashAppController.getMapSearchRegister();
+    $(document).delegate("#page-add-event", "pageshow", function () {
+        console.log("maps-page");
+        FlashAppController.getAddEvent();
     });
-//    now page 
-     $(document).delegate("#page-now", "pageshow", function () {
-         console.log("testomg");
-        flashAppController.getNow();
+    $(document).delegate("#page-list", "pageshow", function () {
+        console.log("maps-page");
+        FlashAppController.getList();
     });
-//    lists page
-         $(document).delegate("#page-lists", "pageshow", function () {
-        flashAppController.getLists();
+    $(document).delegate("#page-add-new-event", "pageshow", function () {
+        $.mobile.toolbar.prototype.options.hideDuringFocus = "";
+        if(FlashApp.mapsAdd){
+            document.getElementById('add-address').value=FlashApp.mapsAdd;
+        }
+        FlashAppController.getAddNewEvent();
     });
-//    map page
-         $(document).delegate("#page-map", "pageshow", function () {
-        flashAppController.getMap();
+    $(document).delegate("#page-add-map", "pageshow", function () {
+        initialize();
+        //searchBox.addListener();
+        //$("#page-add-map").trigger("create");
+        //$.mobile.pageContainer.pagecontainer( "change", "index.html#page-add-map", { reload: true} );
+        //console.log("maps-refresh-page");
+        //alert(FlashApp.add_add);
+        document.getElementById('search-location').value=FlashApp.add_add;
     });
-    //    map page
-         $(document).delegate("#page-parial", "pageshow", function () {
-        flashAppController.getParial();
-    });
-    
+
+
 //     focus search
     $(document).delegate('#btn-search', 'onClick', function () {
         $("#popupsearch").popup({
@@ -83,6 +99,11 @@ $(function () {
         });
     }
 
+
+    $(document).on("keypress", "#searchbar", function (e) {
+        var searchbar = $(this);
+        //your code
+    });
 //  loding page
     $(document).on('pagebeforecreate', '[data-role="page"]', function () {
         var interval = setInterval(function () {

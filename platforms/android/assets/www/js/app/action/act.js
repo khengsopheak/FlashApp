@@ -1,41 +1,88 @@
 $(function () {
+    $(document).on("mobileinit", function() {
+        $.mobile.toolbar.prototype.options.hideDuringFocus = "";
+    });
+    $(document).delegate("#btnregister", "click", function () {
+        var firstname=$('#firstname').val();
+        var lastname=$('#lastname').val();
+        var email=$('#email').val();
+        var password=$('#password').val();
+        var description=$('#description').val();
+        var n = email.indexOf("@");
+        alert(n);
+        if(firstname!='' && lastname!='' && n!=-1 && password!=''){
+        $.ajax({
+            url:"http://espr.website/registers.php",
+            type:"POST",
+            async:false,
+            data:
+            {
+                btnregister:1,
+                firstname:firstname,
+                lastname:lastname,
+                email:email,
+                password:password,
+                description:description
+            },
+            success:function(resule){
+                //alert("success to inserted");
+            }
+        })
+        }else{
+            document.getElementById('message-error').style.display='inline';
+        }
 
-    $(document).delegate("#page-register", "pageshow", function () {
-
-        console.log("register-page");
-        flashAppController.getRegister();
-    });
-//    flashApp
-//    $(document).delegate("#page-register", "pageshow", function () {
-//        console.log("register-page");
-//        flashAppController.getRegister();
-//    });
-    //next-register
-    $(document).delegate("#next-register", "pageshow", function () {
-        flashAppController.getNextRegister();
-    });
-    //map-search
-    $(document).delegate("#map-search", "pageshow", function () {
-        flashAppController.getMapSearchRegister();
-    });
-//    now page 
-     $(document).delegate("#page-now", "pageshow", function () {
-         console.log("testomg");
-        flashAppController.getNow();
-    });
-//    lists page
-         $(document).delegate("#page-lists", "pageshow", function () {
-        flashAppController.getLists();
-    });
-//    map page
-         $(document).delegate("#page-map", "pageshow", function () {
-        flashAppController.getMap();
-    });
-    //    map page
-         $(document).delegate("#page-parial", "pageshow", function () {
-        flashAppController.getParial();
     });
     
+ 
+    $(document).delegate("#page-now", "pageshow", function () {
+
+        console.log("register-page");
+        FlashAppController.getNow();
+    });
+    $(document).delegate("#page-register", "pageshow", function () {
+        console.log("register-page");
+        FlashAppController.getRegister();
+    });
+    $(document).delegate("#page-parail", "pageshow", function () {
+        console.log("parail-page");
+        FlashAppController.getParail();
+    });
+    $(document).delegate("#page-add-maps", "pageshow", function () {
+        console.log("maps-page");
+        FlashAppController.getAddMaps();
+    });
+
+    $(document).delegate("#page-maps", "pageshow", function () {
+        console.log("maps-page");
+        FlashAppController.getMaps();
+    });
+    $(document).delegate("#page-add-event", "pageshow", function () {
+        console.log("maps-page");
+        FlashAppController.getAddEvent();
+    });
+    $(document).delegate("#page-list", "pageshow", function () {
+        console.log("maps-page");
+        FlashAppController.getList();
+    });
+    $(document).delegate("#page-add-new-event", "pageshow", function () {
+        $.mobile.toolbar.prototype.options.hideDuringFocus = "";
+        if(FlashApp.mapsAdd){
+            document.getElementById('add-address').value=FlashApp.mapsAdd;
+        }
+        FlashAppController.getAddNewEvent();
+    });
+    $(document).delegate("#page-add-map", "pageshow", function () {
+        initialize();
+        //searchBox.addListener();
+        //$("#page-add-map").trigger("create");
+        //$.mobile.pageContainer.pagecontainer( "change", "index.html#page-add-map", { reload: true} );
+        //console.log("maps-refresh-page");
+        //alert(FlashApp.add_add);
+        document.getElementById('search-location').value=FlashApp.add_add;
+    });
+
+
 //     focus search
     $(document).delegate('#btn-search', 'onClick', function () {
         $("#popupsearch").popup({
@@ -44,7 +91,19 @@ $(function () {
             }
         });
     });
+    function brnclick(){
+        $("#popupsearch").popup({
+            afteropen: function () {
+                $('#filterlaw').focus();
+            }
+        });
+    }
 
+
+    $(document).on("keypress", "#searchbar", function (e) {
+        var searchbar = $(this);
+        //your code
+    });
 //  loding page
     $(document).on('pagebeforecreate', '[data-role="page"]', function () {
         var interval = setInterval(function () {
@@ -63,6 +122,11 @@ $(function () {
             $.mobile.loading('hide');
             clearInterval(interval);
         }, 100);
+    });
+    $(document).ready(function(){
+        $('.btnSubmit').on("click",function(){
+            alert("click successful");
+        });
     });
 
 //    end loading

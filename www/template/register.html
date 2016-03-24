@@ -1,165 +1,133 @@
-<script>
-    $(document).delegate('#btn-search', 'onClick', function () {
-        $("#popupsearch").popup({
-            afteropen: function () {
-                $('#filterlaw').focus();
-            }
-        });
-    });
-</script>
-<div data-role="panel" id="left-panel2" data-display="overlay" data-position="left" class="panel-index">
+<div class="ui-panel ui-panel-position-left ui-panel-display-overlay ui-body-a ui-panel-animate ui-panel-open"
+     data-role="panel" id="leftpanel3" data-position="left" data-display="overlay" data-theme="a">
 
-    <div>
-        <h1 class="bar-header">FLASH APP</h1>
-    </div>
+    <div class="ui-panel-inner"><h3>Left Panel: Overlay</h3>
+        <a href="#demo-links" data-rel="close"
+           class="ui-btn ui-shadow ui-corner-all ui-btn-a ui-icon-delete ui-btn-icon-left ui-btn-inline">Close
+            panel</a></div>
 
-    <div class="bar-content">
-        <ul class="menu">
-            <li>
-                <a href="index.html">
-                    <span class="glyph-icon flaticon-info27"></span>
-                    New!
-                </a>
-            </li>
 
-            <li>
-                <a href="#">
-                    <span class="glyph-icon flaticon-shopping73"></span>
-                    Panial
-                </a>
-            </li>
-
-            <li>
-                <a href="#">
-                    <span class="glyph-icon flaticon-paper11"></span>
-                    Map
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <span class="glyph-icon flaticon-homework"></span>
-                    List
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <span class="glyph-icon flaticon-folder265"></span>
-                    Comple
-                </a>
-            </li>
-        </ul>
-        <ul class="menu">
-            <li>
-                <a onclick="exitFromApp()">
-                    <span class="glyph-icon flaticon-info27"></span>
-                    close
-                </a>
-            </li>
-            <li>
-                <a onclick="exitFromApp()">
-                    <span class="glyph-icon flaticon-info27"></span>
-                    help
-                </a>
-            </li>
-        </ul>
-    </div>
-</div>
-<!--/panel-->
-<div data-role="header" data-id="persistent" data-position="fixed" class="header">
-    <div class="app-menu">
-        <a href="#left-panel2" class=""><i class="md md-dehaze"></i></a>
-    </div>
-
-    <div class="app-title">
-        <img style="height: 100%;margin-left: 50%;" src="img/icon/Adobe-Flash-app1.png" alt=""/>
-    </div>
-
-    <div class="app-search">
-        <a href="#popupsearch" data-rel="popup" data-inline="true" data-transition="slide" class="srmenu"
-           id="btn-search">
-            <i class="md md-search"></i>
-        </a>
-    </div>
-
-    <div data-role="popup" class="h-serach" id="popupsearch">
-        <form class="ui-filterable">
-            <input id="filterlaw" data-type="search" placeholder="Search"/>
-        </form>
-    </div>
 </div>
 
-<!-- /header -->
-<div data-role="content" style="padding: 0px !important;margin: 0px !important;" class="cont">
-    <div class="head" style="display: none;" id="message-error">
-        <h1>Message d's error</h1>
-    </div>
-    <div class="profile-image">
-        <div class='add-profile'>
-            <a href="#popupBasic" data-rel="popup" class="ui-btn ui-corner-all ui-shadow ui-btn-inline" data-transition="pop">
-                <img src="img/icon/camera3.png" alt="No Image"/>
+<div data-role="header" data-position="fixed" data-tap-toggle="false" data-hide-during-focus="false" data-transition="none" class="header-cus">
+    <div class="ui-grid-b center">
+        <div class="ui-block-a">
+            <a href="#leftpanel3">
+                <img src="img/icon-header/sub-menu.png" alt="">
             </a>
+        </div>
+        <div class="ui-block-b">
+            <img src="img/icon-header/Adobe-Flash-app1.png" alt="logo">
+        </div>
+        <div class="ui-block-c">
+            <a href="#pop" data-transition="slide" data-rel="popup">
+                <img src="img/icon-header/search.png" alt="search">
+            </a>
+            <div data-role="popup" id="pop">
+                <div data-role="fieldcontain" class="ui-hide-label">
+                    <label for="username">Search:</label>
+                    <input type="text" name="username" id="username" value="" placeholder="Username"/>
 
-            <div data-role="popup" id="popupBasic">
-                <fieldset class="ui-grid-a">
-                        <div class="ui-block-a"><input type="submit" value="Submit" data-theme="a"></div>
-                        <div class="ui-block-b"><input type="reset" value="Reset" data-theme="b"></div>
-                </fieldset>
+                </div>
+
+                <div class="ui-close-search">
+                    <a href="#" data-rel="close">
+                        <img src="img/icon-header/delete.png" alt="">
+                    </a>
+
+                </div>
             </div>
         </div>
     </div>
-    <div>
-        <form action="#next-register">
-        <div class="txt">
-            <input type="text" name="firstname" id="firstname" value="" placeholder="First Name" required/>
-        </div>
-        <div class="txt">
-            <input type="text" name="lastname" id="lastname" value="" placeholder="Last Name" required/>
-        </div>
-        <div data-role="fieldcontain" class="ui-hide-label">
-            <input type="email" name="email" id="email" value="" placeholder="Sing" required/>
-            <input type="password" name="password" id="password" value="" placeholder="password" required/>
-            <input type="text" name="description" id="description" value="" placeholder="Description"/>
-            <input type="submit" value="Register" id="btnregister" data-role="button"
-                   style="color: #fff;background-color: #EC9E29 !important;border-color: #EC9E29">
-            <div id="bton-down-icons" class="clickme" style="background-color: rgba(102, 165, 35, 0.8);">
+
+</div>
+
+<div data-role="popup" id="popupPro" data-theme="a" class="ui-corner-all">
+    Â Â Â Â Â Â Â Â 
+    <div style="padding:10px 20px;">
+        <div class="ui-grid-a ui-responsive">
+            <div class="ui-block-a" onclick="capturePhoto();">
+                <a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-connect">Take Pictue</a>
             </div>
+            <div class="ui-block-b" onclick="getPhoto(pictureSource.SAVEDPHOTOALBUM);">
+                <a href="#page-register" class="ui-btn ui-corner-all ui-shadow ui-btn-register">Albume</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div data-role="content">
+    <div class="ui-content-register-cus">
+        <div class="ui-msg-error" id="msg-error"><h4>Messege Error</h4></div>
+        <div class="ui-img-pro">
+
+            <form action="">
+                <img src="img/info/info.jpg" id="largeImage" style="    width: 100%;
+                     height: 100%;">
+                <div class="ut-btn-brow">
+                    <a href="#popupPro" data-rel="popup" data-position-to="window">
+                        <img src="img/element/camera.png" alt="" style="width: 100%">
+                    </a>
+                </div>
+                <div class="ui-info">
+                    <div class="ui-grid-a ui-text">
+                        <div class="ui-block-a"><input placeholder="First Name" data-theme="a" type="text" id="firstName" name="firstName">
+                        </div>
+                        <div class="ui-block-b"><input placeholder="Last Name" data-theme="b" type="text" id="lastName" name="lastName">
+                        </div>
+                    </div>
+                    <div class="ui-grid-solo ui-text">
+                        <div class="ui-block-a"><input placeholder="Email" data-theme="b" type="email" id="email" name="email"></div>
+                        <div class="ui-block-a"><input placeholder="Password" data-theme="b" id="password" type="password"
+                                                       name="password"></div>
+                    </div>
+                    <a href="#page-add-new-event" data-transition="pop">
+                        <div class="ui-grid-solo ui-text">
+                            <div class="ui-block-a"><input value="Register" type="button" name="register" onclick="add.newUser();"></div>
+                        </div>
+                    </a>
+                </div>
+            </form>
 
         </div>
-        </form>
+    </div>
+</div>
+
+<div data-role="footer" data-position="fixed" data-tap-toggle="false" data-hide-during-focus="false" data-transition="none" class="footer-cus">
+    <div class="ui-grid-d center">
+
+        <div class="ui-block-a">
+            <a href="#page-now" class="aLink">
+                <img src="img/menubar-icon/alert-copy.png" alt="">
+                <h4>New!</h4>
+            </a>
         </div>
-    </div>
+        <div class="ui-block-b">
+            <a href="#page-parail" class="aLink">
+                <div class="ui-alert"><h5>2</h5></div>
+                <img src="img/menubar-icon/tool.png" alt="">
+                <h4>Parail</h4>
+            </a>
+        </div>
 
-<!--footer-->
-<div data-role="footer" data-position="fixed" class="footer">
-    <div class="tab-menu" >
-        <a href="#page-now">
-            <h1 class="glyph-icon flaticon-info27"></h1>
-            <h5>Now!</h5>
-        </a>
-    </div>
+        <div class="ui-block-c">
 
-    <div class="tab-menu">
-        <a href="#page-parial">
-            <h1 class="glyph-icon flaticon-shopping73"></h1>
-            <h5>parial</h5>
-        </a>
-    </div>
-    <div class="tab-menu">
-        <a href="#page-map">
-            <h1 class="glyph-icon flaticon-paper11"></h1>
-            <h5>Map</h5>
-        </a>
-    </div>
-    <div class="tab-menu">
-        <a href="#page-lists">
-            <h1 class="glyph-icon flaticon-homework"></h1>
-            <h5>Lists</h5>
-        </a>
-    </div>
-    <div class="tab-menu">
-        <a href="index.html" class="active">
-            <h1 class="glyph-icon flaticon-folder265"></h1>
-            <h5>Comple</h5>
-        </a>
+            <a href="#page-maps" class="aLink">
+                <img src="img/menubar-icon/map.png" alt="">
+                <h4>Maps</h4>
+            </a>
+        </div>
+        <div class="ui-block-e">
+
+            <a href="#page-list" class="aLink">
+                <img src="img/menubar-icon/clipboard.png" alt="">
+                <h4>List</h4>
+            </a>
+        </div>
+        <div class="ui-block-d">
+            <a href="index.html" class="aLink">
+                <img src="img/menubar-icon/account-act.png" alt="">
+                <h4 class="active">Comple</h4>
+            </a>
+        </div>
     </div>
 </div>

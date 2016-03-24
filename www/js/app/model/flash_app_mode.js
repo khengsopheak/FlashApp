@@ -1,7 +1,7 @@
-var LawModel = {
-    laws: [],
+var FlashAppModele = {
+    flashApps: [],
     getLaws: function () {
-        return LawModel.laws;
+        return FlashAppModele.flashApps;
     },
     fetch: function (successCallback, errorCallback) {
         $.ajax({

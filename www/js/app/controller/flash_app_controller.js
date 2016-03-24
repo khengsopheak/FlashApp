@@ -1,63 +1,75 @@
-var flashAppController = {
-
-    id: "",
-    register: function(){
-        alert("click successful");
-    },
+var FlashAppController = {
     getRegister: function () {
-        LawModel.fetch(function (laws) {
-            LawView.registerRenderList(laws);
-        },
-                function (error) {
-                    console.log('error ; ', error);
-                });
+        FlashAppModele.fetch(function (laws) {
+                FlashAppView.registerRenderList(laws);
+            },
+            function (error) {
+                console.log('error ; ', error);
+            });
     },
+    getAddMaps: function () {
+        FlashAppModele.fetch(function (maps) {
+                FlashAppView.addMapsRenderList(maps);
+            },
+            function (error) {
+                console.log('error ; ', error);
+            });
+    },
+    getAddEvent: function () {
+        FlashAppModele.fetch(function (addEvent) {
+                FlashAppView.addEventRenderList(addEvent);
+            },
+            function (error) {
+                console.log('error;', error);
+            });
+    },
+    getAddNewEvent: function () {
+        FlashAppModele.fetch(function (addNewEvent) {
+                FlashAppView.addNewEventRenderList(addNewEvent);
+            },
+            function (error) {
+                console.log('error;', error);
+            }
+        )
+
+    },
+
     getNow: function () {
-        LawModel.fetch(function (laws) {
-            LawView.nowRenderList(laws);
-        },
-                function (error) {
-                    console.log('error ; ', error);
-                });
-    },
-       getLists: function () {
-        LawModel.fetch(function (laws) {
-            LawView.listsRenderList(laws);
-        },
-                function (error) {
-                    console.log('error ; ', error);
-                });
-    }, 
-    getMap: function () {
-        LawModel.fetch(function (laws) {
-            LawView.mapRenderList(laws);
-        },
-                function (error) {
-                    console.log('error ; ', error);
-                });
-    },
-     getParial: function () {
-        LawModel.fetch(function (laws) {
-            LawView.parialRenderList(laws);
-        },
-                function (error) {
-                    console.log('error ; ', error);
-                });
-    },
-    getNextRegister: function () {
-        LawModel.fetch(function (laws) {
-                LawView.nextRegisterRenderList(laws);
+        FlashAppModele.fetch(function (now) {
+                FlashAppView.nowRenderList(now);
             },
             function (error) {
-                console.log('error ; ', error);
-            });
+                console.log('error;', error);
+            }
+        )
+
     },
-    getMapSearchRegister: function () {
-        LawModel.fetch(function (laws) {
-                LawView.mapSearchRenderList(laws);
+    getParail: function () {
+        FlashAppModele.fetch(function (parail) {
+                FlashAppView.parailRenderList(parail);
             },
             function (error) {
-                console.log('error ; ', error);
-            });
+                console.log('error;', error);
+            }
+        )
+
+    },
+    getMaps: function () {
+        FlashAppModele.fetch(function (maps) {
+                FlashAppView.mapsRenderList(maps);
+            },
+            function (error) {
+                console.log('error;', error);
+            }
+        )
+    },
+    getList: function () {
+        FlashAppModele.fetch(function (lists) {
+                FlashAppView.listRenderList(lists);
+            },
+            function (error) {
+                console.log('error;', error);
+            }
+        )
     }
 };

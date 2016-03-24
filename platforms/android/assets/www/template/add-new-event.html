@@ -1,0 +1,183 @@
+<div data-role="header" data-position="fixed" data-tap-toggle="false" class="header-cus">
+    <div class="ui-grid-b center">
+        <div class="ui-block-a">
+            <a href="#leftpanel3">
+                <img src="img/icon-header/sub-menu.png" alt="">
+            </a>
+        </div>
+        <div class="ui-block-b">
+            <img src="img/icon-header/Adobe-Flash-app1.png" alt="logo">
+        </div>
+        <div class="ui-block-c">
+            <a href="#pop" data-transition="slide" data-rel="popup">
+                <img src="img/icon-header/search.png" alt="search">
+            </a>
+            <div data-role="popup" id="pop">
+                <div data-role="fieldcontain" class="ui-hide-label">
+                    <label for="username">Search:</label>
+                    <input type="text" name="username" id="username" value="" placeholder="Username"/>
+
+                </div>
+
+                <div class="ui-close-search">
+                    <a href="#" data-rel="close">
+                        <img src="img/icon-header/delete.png" alt="">
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<div data-role="popup" id="popup-add-event-pic" data-theme="a" class="ui-corner-all">
+            
+    <div style="padding:10px 20px;">
+        <div class="ui-grid-a ui-responsive">
+            <div class="ui-block-a" onclick="camera.takeEventPic();">
+                <a href="#" class="ui-btn ui-corner-all ui-shadow ui-btn-connect">Take Pictue</a>
+            </div>
+            <div class="ui-block-b" onclick="getPhoto(pictureSource.SAVEDPHOTOALBUM);">
+                <a href="#page-register" class="ui-btn ui-corner-all ui-shadow ui-btn-register">Albume</a>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+
+<div data-role="content" data-fullscreen="false" style="padding: 0px !important;height: 100% !important;">
+    <div class="event" data-tap-toggle="false">
+        <div class="ui-grid-b center">
+            <div class="ui-block-a">People</div>
+            <div class="ui-block-b add-event">
+                <div class="icon-add">
+                    <img src="img/icon-header/add-event.png" alt="add-event">
+                </div>
+                <a>Add New</a>
+            </div>
+            <div class="ui-block-c">Referian</div>
+        </div>
+        <div class="ui-grid-solo center add-new-event">
+            <div class="ui-block-a">Add a New Event</div>
+        </div>
+
+        <div class="ui-reseaerch">
+            <div class="ui-lb-search"><h4>Search The Place</h4></div>
+            <input id="add-address" name="add-address" placeholder="The Palace, Rue du Faubourg" type="search"
+                   class="ui-search-map-event">
+            <a href="#page-add-map" onclick="FlashApp.addAddress()" data-transition="pop">
+                <button class="ui-btn-search">
+                    <img src="img/icon-header/search.png" alt="">
+                </button>
+            </a>
+        </div>
+    </div>
+    <!--start map content-->
+    <div class="ui-add-info">
+        <div class="ui-full-info">
+            <div style="width: 100%;height: 200px;">
+                <img src="img/info/info.jpg" id="eventImage" style="    width: 100%;
+    height: 100%;">
+            </div>
+            <a href="#popup-add-event-pic" data-rel="popup" data-position-to="window">
+            <div class="ui-img-event">
+                <img src="img/element/camera.png" alt="" style="width: 100%">
+            </div>
+                </a>
+            <div style="width: 100%;position: absolute;top: 0px;" class="ui-add-info-envent">
+                <div class="ui-line-cus"></div>
+                <h4 class="ui-label-cus">Infomation</h4>
+                <div data-role="fieldcontain" class="ui-field-contain ui-body ui-br" id="ui-input-event-name">
+                    <input type="text" name="name" id="name" value="" style="" placeholder="Event Name"></div>
+                <div class="ui-field-contain ui-select-cus">
+                    <select name="select-custom-1" id="select-custom-1" data-native-menu="false">
+                        <option value="0">Event Type</option>
+                        <option value="1">School</option>
+                        <option value="2">org</option>
+                        <option value="3">shop</option>
+                        <option value="4">company</option>
+                    </select>
+                    <div role="main" class="ui-content ui-textarea-cus">
+		<textarea name="textarea" id="textarea-a"
+                  placeholder="Description of Event"></textarea>
+                    </div>
+                </div>
+
+                <div class="ui-line-cus1"></div>
+                <h4 class="ui-label-cus1">Option</h4>
+                <form action="" style="position: absolute;width: 100%;top:425px">
+                    <input type="date" data-clear-btn="false" name="date-1" id="date-1" value="">
+                    <div class="e-cl">
+                        <input type="time" data-clear-btn="false" name="time-1" id="start-time" value="" class="time" placeholder="Start Time">
+                    </div>
+                    <div class="e-cl">
+                        <input type="time" data-clear-btn="false" name="time-1" id="end-time" value="" class="time" placeholder="End Time">
+                    </div>
+                    <div class="e-cl">
+                       <h4>Potee</h4>
+                    </div>
+                    <div class="e-cl">
+                        <h4 class="right">&gt;50km</h4>
+                    </div>
+                      <input type="range" name="slider-1" data-highlight="true" id="slider-1" min="0" max="50"
+                             value="25" data-popup-enabled="true">
+                    <div style="width:100%;"><h5 style="float: left;">Etes Vous abonnes, mon cher ami?:</h5><input
+                            type="checkbox" name="ch" style="    width: 20px;
+    float: right;
+    /* right: 31px; */
+    position: inherit;">
+                    </div>
+                </form>
+                <hr>
+                <div class="ui-submit">
+                    <h4>Estimation persones atteintes:</h4>
+                    <h2>120242890</h2>
+                    <a href="#page-now">
+                        <button class="ui-btn-submit-cus">OK</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div data-role="footer" data-position="fixed" data-tap-toggle="false"class="footer-cus">
+    <div class="ui-grid-d center">
+
+        <div class="ui-block-a">
+            <a href="#page-now" class="aLink">
+                <img src="img/menubar-icon/alert-copy.png" alt="">
+                <h4>New!</h4>
+            </a>
+        </div>
+        <div class="ui-block-b">
+            <a href="#page-parail" class="aLink">
+                <div class="ui-alert"><h5>2</h5></div>
+                <img src="img/menubar-icon/tool.png" alt="">
+                <h4>Parail</h4>
+            </a>
+        </div>
+
+        <div class="ui-block-c">
+
+            <a href="#page-maps" class="aLink">
+                <img src="img/menubar-icon/map.png" alt="">
+                <h4>Maps</h4>
+            </a>
+        </div>
+        <div class="ui-block-e">
+
+            <a href="#page-list" class="aLink">
+                <img src="img/menubar-icon/clipboard.png" alt="">
+                <h4>List</h4>
+            </a>
+        </div>
+        <div class="ui-block-d">
+            <a href="index.html" class="aLink">
+                <img src="img/menubar-icon/account-act.png" alt="">
+                <h4 class="active">Comple</h4>
+            </a>
+        </div>
+    </div>
+</div>

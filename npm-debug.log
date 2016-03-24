@@ -1,0 +1,458 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'install', '-g', 'cordova' ]
+2 info using npm@1.3.10
+3 info using node@v0.10.25
+4 verbose cache add [ 'cordova', null ]
+5 verbose cache add name=undefined spec="cordova" args=["cordova",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'cordova',
+6 verbose parsed url   path: 'cordova',
+6 verbose parsed url   href: 'cordova' }
+7 silly lockFile a98f2055-cordova cordova
+8 verbose lock cordova /home/kea/.npm/a98f2055-cordova.lock
+9 silly lockFile a98f2055-cordova cordova
+10 silly lockFile a98f2055-cordova cordova
+11 verbose addNamed [ 'cordova', '' ]
+12 verbose addNamed [ null, '*' ]
+13 silly lockFile de8d9fad-cordova cordova@
+14 verbose lock cordova@ /home/kea/.npm/de8d9fad-cordova.lock
+15 silly addNameRange { name: 'cordova', range: '*', hasData: false }
+16 verbose url raw cordova
+17 verbose url resolving [ 'https://registry.npmjs.org/', './cordova' ]
+18 verbose url resolved https://registry.npmjs.org/cordova
+19 info trying registry request attempt 1 at 22:41:54
+20 verbose etag "3H9HCJ6B6T2A3WDHQ9AMHV82X"
+21 http GET https://registry.npmjs.org/cordova
+22 http 200 https://registry.npmjs.org/cordova
+23 silly registry.get cb [ 200,
+23 silly registry.get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+23 silly registry.get     etag: '"DGJHRS7T69V2KSN0IDDPZNQLZ"',
+23 silly registry.get     'content-type': 'application/json',
+23 silly registry.get     'cache-control': 'max-age=300',
+23 silly registry.get     'content-length': '365443',
+23 silly registry.get     'accept-ranges': 'bytes',
+23 silly registry.get     date: 'Thu, 24 Mar 2016 15:41:56 GMT',
+23 silly registry.get     via: '1.1 varnish',
+23 silly registry.get     age: '211',
+23 silly registry.get     connection: 'keep-alive',
+23 silly registry.get     'x-served-by': 'cache-ams4122-AMS',
+23 silly registry.get     'x-cache': 'HIT',
+23 silly registry.get     'x-cache-hits': '2',
+23 silly registry.get     'x-timer': 'S1458834116.219170,VS0,VE0',
+23 silly registry.get     vary: 'Accept' } ]
+24 silly addNameRange number 2 { name: 'cordova', range: '*', hasData: true }
+25 silly addNameRange versions [ 'cordova',
+25 silly addNameRange   [ '0.0.1',
+25 silly addNameRange     '0.0.2',
+25 silly addNameRange     '0.0.3',
+25 silly addNameRange     '0.0.4',
+25 silly addNameRange     '0.0.5',
+25 silly addNameRange     '0.0.6',
+25 silly addNameRange     '0.0.7',
+25 silly addNameRange     '0.0.8',
+25 silly addNameRange     '0.0.9',
+25 silly addNameRange     '0.1.0',
+25 silly addNameRange     '0.1.1',
+25 silly addNameRange     '0.1.2',
+25 silly addNameRange     '0.1.3',
+25 silly addNameRange     '0.1.4',
+25 silly addNameRange     '0.1.5',
+25 silly addNameRange     '0.1.6',
+25 silly addNameRange     '0.1.7',
+25 silly addNameRange     '0.1.8',
+25 silly addNameRange     '0.1.9',
+25 silly addNameRange     '0.1.10',
+25 silly addNameRange     '0.1.11',
+25 silly addNameRange     '0.1.12',
+25 silly addNameRange     '0.1.13',
+25 silly addNameRange     '0.1.14',
+25 silly addNameRange     '2.2.0',
+25 silly addNameRange     '2.3.0',
+25 silly addNameRange     '2.3.1',
+25 silly addNameRange     '2.3.2',
+25 silly addNameRange     '2.3.3',
+25 silly addNameRange     '2.3.5',
+25 silly addNameRange     '2.3.6',
+25 silly addNameRange     '2.4.0',
+25 silly addNameRange     '2.4.1',
+25 silly addNameRange     '2.4.2',
+25 silly addNameRange     '2.4.3',
+25 silly addNameRange     '2.4.4',
+25 silly addNameRange     '2.4.5',
+25 silly addNameRange     '2.4.6',
+25 silly addNameRange     '2.4.7',
+25 silly addNameRange     '2.4.8',
+25 silly addNameRange     '2.4.9',
+25 silly addNameRange     '2.4.10',
+25 silly addNameRange     '2.5.0',
+25 silly addNameRange     '2.5.2',
+25 silly addNameRange     '2.5.3',
+25 silly addNameRange     '2.5.4',
+25 silly addNameRange     '2.5.5',
+25 silly addNameRange     '2.6.0',
+25 silly addNameRange     '2.6.1',
+25 silly addNameRange     '2.6.2',
+25 silly addNameRange     '2.7.0-rc.1',
+25 silly addNameRange     '2.7.1-rc.1',
+25 silly addNameRange     '2.7.2',
+25 silly addNameRange     '2.7.3',
+25 silly addNameRange     '2.7.4',
+25 silly addNameRange     '2.8.0',
+25 silly addNameRange     '2.8.1',
+25 silly addNameRange     '2.8.2',
+25 silly addNameRange     '2.8.3',
+25 silly addNameRange     '2.8.4',
+25 silly addNameRange     '2.8.5',
+25 silly addNameRange     '2.8.6',
+25 silly addNameRange     '2.8.7',
+25 silly addNameRange     '2.8.8',
+25 silly addNameRange     '2.8.9',
+25 silly addNameRange     '2.8.10',
+25 silly addNameRange     '2.8.11',
+25 silly addNameRange     '2.8.12',
+25 silly addNameRange     '2.8.13',
+25 silly addNameRange     '2.8.14',
+25 silly addNameRange     '2.8.15',
+25 silly addNameRange     '2.8.16',
+25 silly addNameRange     '2.8.17',
+25 silly addNameRange     '2.8.18',
+25 silly addNameRange     '2.8.19',
+25 silly addNameRange     '2.8.20',
+25 silly addNameRange     '2.8.21',
+25 silly addNameRange     '2.8.22',
+25 silly addNameRange     '2.8.23',
+25 silly addNameRange     '2.8.24',
+25 silly addNameRange     '2.8.25',
+25 silly addNameRange     '2.9.0',
+25 silly addNameRange     '2.9.1',
+25 silly addNameRange     '2.9.2',
+25 silly addNameRange     '2.9.3',
+25 silly addNameRange     '2.9.4',
+25 silly addNameRange     '2.9.5',
+25 silly addNameRange     '2.9.6',
+25 silly addNameRange     '2.9.7',
+25 silly addNameRange     '3.0.0-rc1',
+25 silly addNameRange     '3.0.0-rc1-1',
+25 silly addNameRange     '3.0.0-rc1-3',
+25 silly addNameRange     '3.0.0',
+25 silly addNameRange     '3.0.1',
+25 silly addNameRange     '3.0.2',
+25 silly addNameRange     '3.0.3',
+25 silly addNameRange     '3.0.4',
+25 silly addNameRange     '3.0.5',
+25 silly addNameRange     '3.0.6',
+25 silly addNameRange     '3.0.7',
+25 silly addNameRange     '3.0.8',
+25 silly addNameRange     '3.0.9',
+25 silly addNameRange     '3.0.10',
+25 silly addNameRange     '3.1.0-0.1.0',
+25 silly addNameRange     '3.1.0-0.2.0',
+25 silly addNameRange     '3.2.0-rc.1',
+25 silly addNameRange     '3.2.0-0.1.0',
+25 silly addNameRange     '3.2.0-0.2.0',
+25 silly addNameRange     '3.2.0-0.3.0',
+25 silly addNameRange     '3.2.0-0.4.0',
+25 silly addNameRange     '3.3.0-rc.1',
+25 silly addNameRange     '3.3.0-0.1.1',
+25 silly addNameRange     '3.3.1-0.1.2',
+25 silly addNameRange     '2.9.0-rc1',
+25 silly addNameRange     '3.3.1-0.3.0',
+25 silly addNameRange     '3.3.1-0.3.1',
+25 silly addNameRange     '3.3.1-0.4.1',
+25 silly addNameRange     '3.3.1-0.4.2',
+25 silly addNameRange     '3.4.0-0.1.0',
+25 silly addNameRange     '3.4.0-0.1.1',
+25 silly addNameRange     '3.4.0-0.1.2',
+25 silly addNameRange     '3.4.0-0.1.3',
+25 silly addNameRange     '0.0.0-fake',
+25 silly addNameRange     '3.4.1-0.1.0',
+25 silly addNameRange     '3.5.0-0.2.0',
+25 silly addNameRange     '3.5.0-0.2.1',
+25 silly addNameRange     '3.5.0-0.2.2',
+25 silly addNameRange     '3.5.0-0.2.3',
+25 silly addNameRange     '3.5.0-0.2.4',
+25 silly addNameRange     '3.5.0-0.2.6',
+25 silly addNameRange     '3.5.0-0.2.7',
+25 silly addNameRange     '3.6.0-0.2.8',
+25 silly addNameRange     '3.6.0-0.2.9',
+25 silly addNameRange     '3.6.1-0.2.10',
+25 silly addNameRange     '3.6.3-0.2.11',
+25 silly addNameRange     '3.6.3-0.2.12',
+25 silly addNameRange     '3.6.3-0.2.13',
+25 silly addNameRange     '4.0.0',
+25 silly addNameRange     '4.0.1',
+25 silly addNameRange     '4.1.0',
+25 silly addNameRange     '4.1.1',
+25 silly addNameRange     '4.1.2',
+25 silly addNameRange     '4.1.3-nightly.2014.10.21',
+25 silly addNameRange     '4.2.0',
+25 silly addNameRange     '4.3.0',
+25 silly addNameRange     '5.0.0',
+25 silly addNameRange     '4.3.1',
+25 silly addNameRange     '5.1.1',
+25 silly addNameRange     '5.2.0',
+25 silly addNameRange     '5.3.1',
+25 silly addNameRange     '5.3.3',
+25 silly addNameRange     '5.4.0',
+25 silly addNameRange     '5.4.1',
+25 silly addNameRange     '6.0.0',
+25 silly addNameRange     '6.1.0' ] ]
+26 verbose addNamed [ 'cordova', '6.1.0' ]
+27 verbose addNamed [ '6.1.0', '6.1.0' ]
+28 silly lockFile a5a8c19f-cordova-6-1-0 cordova@6.1.0
+29 verbose lock cordova@6.1.0 /home/kea/.npm/a5a8c19f-cordova-6-1-0.lock
+30 silly lockFile 9347fda3-js-org-cordova-cordova-6-1-0-tgz https://registry.npmjs.org/cordova/-/cordova-6.1.0.tgz
+31 verbose lock https://registry.npmjs.org/cordova/-/cordova-6.1.0.tgz /home/kea/.npm/9347fda3-js-org-cordova-cordova-6-1-0-tgz.lock
+32 verbose addRemoteTarball [ 'https://registry.npmjs.org/cordova/-/cordova-6.1.0.tgz',
+32 verbose addRemoteTarball   '6c801199aaa01118e7ce56ec16ad4a01d54bce1e' ]
+33 info retry fetch attempt 1 at 22:41:59
+34 verbose fetch to= /home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/tmp.tgz
+35 http GET https://registry.npmjs.org/cordova/-/cordova-6.1.0.tgz
+36 http 200 https://registry.npmjs.org/cordova/-/cordova-6.1.0.tgz
+37 verbose tar unpack /home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/tmp.tgz
+38 silly lockFile 16673e6b-19190-0-5470598405227065-package tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/package
+39 verbose lock tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/package /home/kea/.npm/16673e6b-19190-0-5470598405227065-package.lock
+40 silly lockFile 811e0f98-19190-0-5470598405227065-tmp-tgz tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/tmp.tgz
+41 verbose lock tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/tmp.tgz /home/kea/.npm/811e0f98-19190-0-5470598405227065-tmp-tgz.lock
+42 silly gunzTarPerm modes [ '755', '644' ]
+43 silly gunzTarPerm extractEntry package.json
+44 silly gunzTarPerm extractEntry .npmignore
+45 silly gunzTarPerm extractEntry README.md
+46 silly gunzTarPerm extractEntry LICENSE
+47 silly gunzTarPerm extractEntry Gruntfile.js
+48 silly gunzTarPerm extractEntry cordova.js
+49 silly gunzTarPerm extractEntry RELEASENOTES.md
+50 silly gunzTarPerm extractEntry NOTICE
+51 silly gunzTarPerm extractEntry .travis.yml
+52 silly gunzTarPerm extractEntry CONTRIBUTING.md
+53 silly gunzTarPerm extractEntry appveyor.yml
+54 silly gunzTarPerm extractEntry bin/cordova
+55 silly gunzTarPerm extractEntry bin/cordova.cmd
+56 silly gunzTarPerm extractEntry .gitattributes
+57 silly gunzTarPerm extractEntry doc/it/README.md
+58 silly gunzTarPerm extractEntry doc/it/bash.md
+59 silly gunzTarPerm extractEntry doc/bash.md
+60 silly gunzTarPerm extractEntry doc/clean.txt
+61 silly gunzTarPerm extractEntry doc/compile.txt
+62 silly gunzTarPerm extractEntry doc/cordova.txt
+63 silly gunzTarPerm extractEntry doc/create.txt
+64 silly gunzTarPerm extractEntry doc/de/README.md
+65 silly gunzTarPerm extractEntry doc/de/bash.md
+66 silly gunzTarPerm extractEntry doc/emulate.txt
+67 silly gunzTarPerm extractEntry doc/es/README.md
+68 silly gunzTarPerm extractEntry doc/es/bash.md
+69 silly gunzTarPerm extractEntry doc/fr/README.md
+70 silly gunzTarPerm extractEntry doc/fr/bash.md
+71 silly gunzTarPerm extractEntry doc/help.txt
+72 silly gunzTarPerm extractEntry doc/info.txt
+73 silly gunzTarPerm extractEntry doc/build.txt
+74 silly gunzTarPerm extractEntry doc/ja/README.md
+75 silly gunzTarPerm extractEntry doc/ja/bash.md
+76 silly gunzTarPerm extractEntry doc/ko/README.md
+77 silly gunzTarPerm extractEntry doc/ko/bash.md
+78 silly gunzTarPerm extractEntry doc/pl/README.md
+79 silly gunzTarPerm extractEntry doc/pl/bash.md
+80 silly gunzTarPerm extractEntry doc/platform.txt
+81 silly gunzTarPerm extractEntry doc/plugin.txt
+82 silly gunzTarPerm extractEntry doc/prepare.txt
+83 silly gunzTarPerm extractEntry doc/readme.md
+84 silly gunzTarPerm extractEntry doc/requirements.txt
+85 silly gunzTarPerm extractEntry doc/ru/bash.md
+86 silly gunzTarPerm extractEntry doc/run.txt
+87 silly gunzTarPerm extractEntry doc/serve.txt
+88 silly gunzTarPerm extractEntry doc/zh/README.md
+89 silly gunzTarPerm extractEntry doc/zh/bash.md
+90 silly gunzTarPerm extractEntry scripts/cordova.completion
+91 silly gunzTarPerm extractEntry .ratignore
+92 silly gunzTarPerm extractEntry src/cli.js
+93 silly gunzTarPerm extractEntry src/create.js
+94 silly gunzTarPerm extractEntry src/help.js
+95 silly lockFile 16673e6b-19190-0-5470598405227065-package tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/package
+96 silly lockFile 16673e6b-19190-0-5470598405227065-package tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/package
+97 silly lockFile 811e0f98-19190-0-5470598405227065-tmp-tgz tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/tmp.tgz
+98 silly lockFile 811e0f98-19190-0-5470598405227065-tmp-tgz tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/tmp.tgz
+99 verbose tar pack [ '/home/kea/.npm/cordova/6.1.0/package.tgz',
+99 verbose tar pack   '/home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/package' ]
+100 verbose tarball /home/kea/.npm/cordova/6.1.0/package.tgz
+101 verbose folder /home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/package
+102 silly lockFile 16673e6b-19190-0-5470598405227065-package tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/package
+103 verbose lock tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/package /home/kea/.npm/16673e6b-19190-0-5470598405227065-package.lock
+104 silly lockFile 6981d83a-ea-npm-cordova-6-1-0-package-tgz tar:///home/kea/.npm/cordova/6.1.0/package.tgz
+105 verbose lock tar:///home/kea/.npm/cordova/6.1.0/package.tgz /home/kea/.npm/6981d83a-ea-npm-cordova-6-1-0-package-tgz.lock
+106 silly lockFile 16673e6b-19190-0-5470598405227065-package tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/package
+107 silly lockFile 16673e6b-19190-0-5470598405227065-package tar:///home/kea/tmp/npm-14567-oG8y-JPw/1458834119190-0.5470598405227065/package
+108 silly lockFile 6981d83a-ea-npm-cordova-6-1-0-package-tgz tar:///home/kea/.npm/cordova/6.1.0/package.tgz
+109 silly lockFile 6981d83a-ea-npm-cordova-6-1-0-package-tgz tar:///home/kea/.npm/cordova/6.1.0/package.tgz
+110 silly lockFile 5cf3fa25-me-kea-npm-cordova-6-1-0-package /home/kea/.npm/cordova/6.1.0/package
+111 verbose lock /home/kea/.npm/cordova/6.1.0/package /home/kea/.npm/5cf3fa25-me-kea-npm-cordova-6-1-0-package.lock
+112 silly lockFile 5cf3fa25-me-kea-npm-cordova-6-1-0-package /home/kea/.npm/cordova/6.1.0/package
+113 silly lockFile 5cf3fa25-me-kea-npm-cordova-6-1-0-package /home/kea/.npm/cordova/6.1.0/package
+114 verbose tar unpack /home/kea/.npm/cordova/6.1.0/package.tgz
+115 silly lockFile 8fd16fae-me-kea-npm-cordova-6-1-0-package tar:///home/kea/.npm/cordova/6.1.0/package
+116 verbose lock tar:///home/kea/.npm/cordova/6.1.0/package /home/kea/.npm/8fd16fae-me-kea-npm-cordova-6-1-0-package.lock
+117 silly lockFile 6981d83a-ea-npm-cordova-6-1-0-package-tgz tar:///home/kea/.npm/cordova/6.1.0/package.tgz
+118 verbose lock tar:///home/kea/.npm/cordova/6.1.0/package.tgz /home/kea/.npm/6981d83a-ea-npm-cordova-6-1-0-package-tgz.lock
+119 silly gunzTarPerm modes [ '755', '644' ]
+120 silly gunzTarPerm extractEntry package.json
+121 silly gunzTarPerm extractEntry .npmignore
+122 silly gunzTarPerm extractEntry README.md
+123 silly gunzTarPerm extractEntry LICENSE
+124 silly gunzTarPerm extractEntry Gruntfile.js
+125 silly gunzTarPerm extractEntry cordova.js
+126 silly gunzTarPerm extractEntry .ratignore
+127 silly gunzTarPerm extractEntry NOTICE
+128 silly gunzTarPerm extractEntry .travis.yml
+129 silly gunzTarPerm extractEntry RELEASENOTES.md
+130 silly gunzTarPerm extractEntry appveyor.yml
+131 silly gunzTarPerm extractEntry bin/cordova
+132 silly gunzTarPerm extractEntry bin/cordova.cmd
+133 silly gunzTarPerm extractEntry CONTRIBUTING.md
+134 silly gunzTarPerm extractEntry doc/it/README.md
+135 silly gunzTarPerm extractEntry doc/it/bash.md
+136 silly gunzTarPerm extractEntry doc/bash.md
+137 silly gunzTarPerm extractEntry doc/clean.txt
+138 silly gunzTarPerm extractEntry doc/compile.txt
+139 silly gunzTarPerm extractEntry doc/cordova.txt
+140 silly gunzTarPerm extractEntry doc/create.txt
+141 silly gunzTarPerm extractEntry doc/de/README.md
+142 silly gunzTarPerm extractEntry doc/de/bash.md
+143 silly gunzTarPerm extractEntry doc/emulate.txt
+144 silly gunzTarPerm extractEntry doc/es/README.md
+145 silly gunzTarPerm extractEntry doc/es/bash.md
+146 silly gunzTarPerm extractEntry doc/fr/README.md
+147 silly gunzTarPerm extractEntry doc/fr/bash.md
+148 silly gunzTarPerm extractEntry doc/help.txt
+149 silly gunzTarPerm extractEntry doc/info.txt
+150 silly gunzTarPerm extractEntry doc/build.txt
+151 silly gunzTarPerm extractEntry doc/ja/README.md
+152 silly gunzTarPerm extractEntry doc/ja/bash.md
+153 silly gunzTarPerm extractEntry doc/ko/README.md
+154 silly gunzTarPerm extractEntry doc/ko/bash.md
+155 silly gunzTarPerm extractEntry doc/pl/README.md
+156 silly gunzTarPerm extractEntry doc/pl/bash.md
+157 silly gunzTarPerm extractEntry doc/platform.txt
+158 silly gunzTarPerm extractEntry doc/plugin.txt
+159 silly gunzTarPerm extractEntry doc/prepare.txt
+160 silly gunzTarPerm extractEntry doc/readme.md
+161 silly gunzTarPerm extractEntry doc/requirements.txt
+162 silly gunzTarPerm extractEntry doc/ru/bash.md
+163 silly gunzTarPerm extractEntry doc/run.txt
+164 silly gunzTarPerm extractEntry doc/serve.txt
+165 silly gunzTarPerm extractEntry doc/zh/README.md
+166 silly gunzTarPerm extractEntry doc/zh/bash.md
+167 silly gunzTarPerm extractEntry .gitattributes
+168 silly gunzTarPerm extractEntry scripts/cordova.completion
+169 silly gunzTarPerm extractEntry src/cli.js
+170 silly gunzTarPerm extractEntry src/create.js
+171 silly gunzTarPerm extractEntry src/help.js
+172 silly lockFile 8fd16fae-me-kea-npm-cordova-6-1-0-package tar:///home/kea/.npm/cordova/6.1.0/package
+173 silly lockFile 8fd16fae-me-kea-npm-cordova-6-1-0-package tar:///home/kea/.npm/cordova/6.1.0/package
+174 silly lockFile 6981d83a-ea-npm-cordova-6-1-0-package-tgz tar:///home/kea/.npm/cordova/6.1.0/package.tgz
+175 silly lockFile 6981d83a-ea-npm-cordova-6-1-0-package-tgz tar:///home/kea/.npm/cordova/6.1.0/package.tgz
+176 verbose chmod /home/kea/.npm/cordova/6.1.0/package.tgz 644
+177 verbose chown /home/kea/.npm/cordova/6.1.0/package.tgz [ 1000, 1000 ]
+178 silly lockFile 9347fda3-js-org-cordova-cordova-6-1-0-tgz https://registry.npmjs.org/cordova/-/cordova-6.1.0.tgz
+179 silly lockFile 9347fda3-js-org-cordova-cordova-6-1-0-tgz https://registry.npmjs.org/cordova/-/cordova-6.1.0.tgz
+180 silly lockFile a5a8c19f-cordova-6-1-0 cordova@6.1.0
+181 silly lockFile a5a8c19f-cordova-6-1-0 cordova@6.1.0
+182 silly lockFile de8d9fad-cordova cordova@
+183 silly lockFile de8d9fad-cordova cordova@
+184 silly resolved [ { name: 'cordova',
+184 silly resolved     version: '6.1.0',
+184 silly resolved     preferGlobal: 'true',
+184 silly resolved     description: 'Cordova command line interface tool',
+184 silly resolved     main: 'cordova',
+184 silly resolved     engines: { node: '>=0.9.9' },
+184 silly resolved     engineStrict: true,
+184 silly resolved     bin: { cordova: './bin/cordova' },
+184 silly resolved     scripts:
+184 silly resolved      { test: 'node node_modules/jasmine-node/bin/jasmine-node --captureExceptions --color spec',
+184 silly resolved        cover: 'node node_modules/istanbul/lib/cli.js cover --root src --print detail node_modules/jasmine-node/bin/jasmine-node -- spec' },
+184 silly resolved     repository:
+184 silly resolved      { type: 'git',
+184 silly resolved        url: 'https://git-wip-us.apache.org/repos/asf/cordova-cli.git' },
+184 silly resolved     bugs:
+184 silly resolved      { url: 'https://issues.apache.org/jira/browse/CB',
+184 silly resolved        email: 'dev@cordova.apache.org' },
+184 silly resolved     keywords: [ 'cordova', 'client', 'cli' ],
+184 silly resolved     dependencies:
+184 silly resolved      { ansi: '^0.3.0',
+184 silly resolved        'cordova-lib': '6.1.0',
+184 silly resolved        'cordova-common': '^1.1.0',
+184 silly resolved        q: '1.0.1',
+184 silly resolved        nopt: '3.0.1',
+184 silly resolved        underscore: '1.7.0',
+184 silly resolved        'update-notifier': '^0.5.0' },
+184 silly resolved     devDependencies:
+184 silly resolved      { istanbul: '^0.3.4',
+184 silly resolved        grunt: '0.4.5',
+184 silly resolved        'grunt-retire': '0.3.7',
+184 silly resolved        'jasmine-node': '1.14.5' },
+184 silly resolved     author: { name: 'Anis Kadri' },
+184 silly resolved     contributors:
+184 silly resolved      [ [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object],
+184 silly resolved        [Object] ],
+184 silly resolved     license: 'Apache-2.0',
+184 silly resolved     readme: '<!--\n#\n# Licensed to the Apache Software Foundation (ASF) under one\n# or more contributor license agreements.  See the NOTICE file\n# distributed with this work for additional information\n# regarding copyright ownership.  The ASF licenses this file\n# to you under the Apache License, Version 2.0 (the\n# "License"); you may not use this file except in compliance\n# with the License.  You may obtain a copy of the License at\n#\n# http://www.apache.org/licenses/LICENSE-2.0\n#\n# Unless required by applicable law or agreed to in writing,\n# software distributed under the License is distributed on an\n# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY\n#  KIND, either express or implied.  See the License for the\n# specific language governing permissions and limitations\n# under the License.\n#\n-->\n[![Build Status](https://travis-ci.org/apache/cordova-cli.svg?branch=master)](https://travis-ci.org/apache/cordova-cli)\n\n# Cordova CLI\n\n> The command line tool to build, deploy and manage [Cordova](http://cordova.apache.org)-based applications.\n\n[Apache Cordova](http://cordova.apache.org) allows for building native mobile applications using HTML, CSS and JavaScript. \nThis tool helps with management of multi-platform Cordova applications as well as Cordova plugin integration.\n\n#Installation\nIn your command-line on Windows:    \n```bash    \n    c:\\> npm install -g cordova\n```    \n    \nIn your terminal on Mac OS X/Linux:\n```bash    \n    $sudo npm install -g cordova\n```\n\n# Creating a new Cordova project\nThis simple example demonstrates how Cordova CLI can be used to create a `myApp` project with the `camera` plugin and run it for `android` platform:\n\n```bash\n    cordova create myApp com.myCompany.myApp myApp\n    cd myApp\n    cordova plugin add cordova-plugin-camera --save\n    cordova platform add android --save\n    cordova requirements android    \n    cordova build android --verbose\n    cordova run android\n```\n\n# Docs\n- [Overview of Cordova]\n- [Create your first Cordova app] guide\n- [Full reference docs for Cordova CLI][Reference docs] has details of commands to add platforms, add plugins, build, package, and sign your HTML, JS apps. \n- Cordova allows you to build apps for a number of platforms. Learn more about our [Supported platforms].\n- [Project directory structure] documents the details of the directory structure created by Cordova CLI.\n\n# Contributing\nCordova is an open source Apache project and contributors are needed to keep this project moving forward. Learn more on \n[how to contribute on our website][contribute]. \n\n# TO-DO + Issues\n\nIf you find issues with this tool, please follow our guidelines for [reporting issues]. \nWe do not use github issue system as an Apache project, we have a JIRA issue management system which covers over 30+ cli, platform, \nplugin repos in the Cordova project. Use the "CLI" component for Cordova CLI issues. However, most of the \nfunctionality of Cordova CLI is implemented in cordova-lib npm module. You can also use "CordovaLib" component to file issues.\n\n[Overview of Cordova]: http://cordova.apache.org/docs/en/latest/guide/overview/\n[Create your first Cordova app]: http://cordova.apache.org/docs/en/latest/guide/cli/index.html\n[Reference docs]: http://cordova.apache.org/docs/en/latest/cordova-cli/index.html\n[Supported platforms]: http://cordova.apache.org/docs/en/latest/guide/support/index.html\n[Project directory structure]: http://cordova.apache.org/docs/en/latest/cordova-cli/index.html#directory-structure\n[Contribute]: http://cordova.apache.org/contribute/\n[Reporting issues]: http://cordova.apache.org/contribute/issues.html\n',
+184 silly resolved     readmeFilename: 'README.md',
+184 silly resolved     _id: 'cordova@6.1.0',
+184 silly resolved     dist: { shasum: '3ec146ed2d56cb1faa15d30ddb1367df074ba731' },
+184 silly resolved     _from: 'cordova@',
+184 silly resolved     _resolved: 'https://registry.npmjs.org/cordova/-/cordova-6.1.0.tgz' } ]
+185 info install cordova@6.1.0 into /usr/local/lib
+186 info installOne cordova@6.1.0
+187 info /usr/local/lib/node_modules/cordova unbuild
+188 info preuninstall cordova@6.0.0
+189 info uninstall cordova@6.0.0
+190 verbose true,/usr/local/lib/node_modules,/usr/local/lib/node_modules unbuild cordova@6.0.0
+191 verbose /usr/local/bin,[object Object] binRoot
+192 info /usr/local/lib/node_modules/cordova unbuild
+193 info preuninstall cordova@6.0.0
+194 info uninstall cordova@6.0.0
+195 verbose true,/usr/local/lib/node_modules,/usr/local/lib/node_modules unbuild cordova@6.0.0
+196 verbose /usr/local/bin,[object Object] binRoot
+197 error error rolling back Error: EACCES, unlink '/usr/local/bin/cordova'
+197 error error rolling back  cordova@6.1.0 { [Error: EACCES, unlink '/usr/local/bin/cordova'] errno: 3, code: 'EACCES', path: '/usr/local/bin/cordova' }
+198 error Error: EACCES, unlink '/usr/local/bin/cordova'
+198 error  { [Error: EACCES, unlink '/usr/local/bin/cordova'] errno: 3, code: 'EACCES', path: '/usr/local/bin/cordova' }
+199 error Please try running this command again as root/Administrator.
+200 error System Linux 3.19.0-32-generic
+201 error command "/usr/bin/nodejs" "/usr/bin/npm" "install" "-g" "cordova"
+202 error cwd /home/kea/Desktop/teamwork/FlashApp
+203 error node -v v0.10.25
+204 error npm -v 1.3.10
+205 error path /usr/local/bin/cordova
+206 error code EACCES
+207 error errno 3
+208 error stack Error: EACCES, unlink '/usr/local/bin/cordova'
+209 verbose exit [ 3, true ]
